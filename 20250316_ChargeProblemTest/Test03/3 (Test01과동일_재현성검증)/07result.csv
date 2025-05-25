@@ -1,0 +1,4 @@
+,name,gas,pressure,temp,cutoff,path,Average loading absolute [mol/kg framework],Average loading excess [mol/kg framework],Average loading absolute [molecules/unit cell],Average loading excess [molecules/unit cell]
+0,TOFTIT_clean,O2,1.0,293.15,14.0,TOFTIT_clean_O2_293.15K_1.0bar_14.0/Output/System_0,0.3385631164,0.3385631164,2.7172,2.7172
+1,XADDEN_manual,O2,1.0,293.15,14.0,XADDEN_manual_O2_293.15K_1.0bar_14.0/Output/System_0,0.3951999587,0.3951999587,0.95618125,0.95618125
+2,ZOFZUR_clean,O2,1.0,293.15,14.0,ZOFZUR_clean_O2_293.15K_1.0bar_14.0/Output/System_0,0.3616283004,0.3616283004,3.614325,3.614325

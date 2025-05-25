@@ -1,0 +1,2096 @@
+[
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "pyrascont",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pyrascont",
+        "description": "pyrascont",
+        "detail": "pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "Parallel",
+        "importPath": "joblib",
+        "description": "joblib",
+        "isExtraImport": true,
+        "detail": "joblib",
+        "documentation": {}
+    },
+    {
+        "label": "delayed",
+        "importPath": "joblib",
+        "description": "joblib",
+        "isExtraImport": true,
+        "detail": "joblib",
+        "documentation": {}
+    },
+    {
+        "label": "Parallel",
+        "importPath": "joblib",
+        "description": "joblib",
+        "isExtraImport": true,
+        "detail": "joblib",
+        "documentation": {}
+    },
+    {
+        "label": "delayed",
+        "importPath": "joblib",
+        "description": "joblib",
+        "isExtraImport": true,
+        "detail": "joblib",
+        "documentation": {}
+    },
+    {
+        "label": "Parallel",
+        "importPath": "joblib",
+        "description": "joblib",
+        "isExtraImport": true,
+        "detail": "joblib",
+        "documentation": {}
+    },
+    {
+        "label": "delayed",
+        "importPath": "joblib",
+        "description": "joblib",
+        "isExtraImport": true,
+        "detail": "joblib",
+        "documentation": {}
+    },
+    {
+        "label": "Parallel",
+        "importPath": "joblib",
+        "description": "joblib",
+        "isExtraImport": true,
+        "detail": "joblib",
+        "documentation": {}
+    },
+    {
+        "label": "delayed",
+        "importPath": "joblib",
+        "description": "joblib",
+        "isExtraImport": true,
+        "detail": "joblib",
+        "documentation": {}
+    },
+    {
+        "label": "Parallel",
+        "importPath": "joblib",
+        "description": "joblib",
+        "isExtraImport": true,
+        "detail": "joblib",
+        "documentation": {}
+    },
+    {
+        "label": "delayed",
+        "importPath": "joblib",
+        "description": "joblib",
+        "isExtraImport": true,
+        "detail": "joblib",
+        "documentation": {}
+    },
+    {
+        "label": "Parallel",
+        "importPath": "joblib",
+        "description": "joblib",
+        "isExtraImport": true,
+        "detail": "joblib",
+        "documentation": {}
+    },
+    {
+        "label": "delayed",
+        "importPath": "joblib",
+        "description": "joblib",
+        "isExtraImport": true,
+        "detail": "joblib",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "shutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shutil",
+        "description": "shutil",
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
+        "label": "psutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "psutil",
+        "description": "psutil",
+        "detail": "psutil",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "sin",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "cos",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "sqrt",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "sin",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "cos",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "sqrt",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "sin",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "cos",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "sqrt",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "sin",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "cos",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "sqrt",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "sin",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "cos",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "sqrt",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "sin",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "cos",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "sqrt",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "replace_placeholders",
+        "kind": 2,
+        "importPath": "Baseline.01make_simulation",
+        "description": "Baseline.01make_simulation",
+        "peekOfCode": "def replace_placeholders(template, replacements):\n    for key, value in replacements.items():\n        template = template.replace(f\"{{{key}}}\", str(value))\n    return template\ndef process_mof_simulations(mof, pressure, temp, gas, base_input,  cutoffvdw, cutoffchargecharge, cutoffchargebonddipole, cutoffbonddipolebonddipole, NumberOfCycles, NumberOfInitializationCycles, PrintEvery):\n    # 선택한 모프의 UNITCELL계산을 위한 코드\n    raspa_dir = os.environ.get(\"RASPA_DIR\")\n    if not raspa_dir:\n        raise EnvironmentError(\"RASPA_DIR 환경 변수가 설정되어 있지 않습니다.\")\n    # CIF 파일 경로 설정",
+        "detail": "Baseline.01make_simulation",
+        "documentation": {}
+    },
+    {
+        "label": "process_mof_simulations",
+        "kind": 2,
+        "importPath": "Baseline.01make_simulation",
+        "description": "Baseline.01make_simulation",
+        "peekOfCode": "def process_mof_simulations(mof, pressure, temp, gas, base_input,  cutoffvdw, cutoffchargecharge, cutoffchargebonddipole, cutoffbonddipolebonddipole, NumberOfCycles, NumberOfInitializationCycles, PrintEvery):\n    # 선택한 모프의 UNITCELL계산을 위한 코드\n    raspa_dir = os.environ.get(\"RASPA_DIR\")\n    if not raspa_dir:\n        raise EnvironmentError(\"RASPA_DIR 환경 변수가 설정되어 있지 않습니다.\")\n    # CIF 파일 경로 설정\n    cifs_path = os.path.join(raspa_dir, \"share\", \"raspa\", \"structures\", \"cif\")\n    res_ucell = pyrascont.cif2Ucell(os.path.join(cifs_path, mof), cutoffvdw, Display=True)\n    unitcell_str = ' '.join(map(str, res_ucell))\n    ## BASETEMPLATE의 값을 치환하는 코드",
+        "detail": "Baseline.01make_simulation",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "Baseline.01make_simulation",
+        "description": "Baseline.01make_simulation",
+        "peekOfCode": "def main():\n    parser = argparse.ArgumentParser(description=\"Process MOF simulations.\")\n    parser.add_argument(\"--mof\", type=str, required=True, help=\"MOF file name (without extension)\")\n    parser.add_argument(\"--pressure\", type=float, required=True, help=\"Pressure in bar\")\n    parser.add_argument(\"--temp\", type=float, required=True, help=\"Temperature in Kelvin\")\n    parser.add_argument(\"--gas\", type=str, required=True, help=\"Gas type\")\n    parser.add_argument(\"--base_input\", type=str, required=True, help=\"Base input template for simulation\")\n    parser.add_argument(\"--cutoffvdw\", type=float, required=True, help=\"cutoffvdw distance in Angstroms\")\n    parser.add_argument(\"--cutoffchargecharge\", type=float, required=True, help=\"cutoffchargecharge distance in Angstroms\")\n    parser.add_argument(\"--cutoffchargebonddipole\", type=float, required=True, help=\"cutoffchargebonddipole distance in Angstroms\")",
+        "detail": "Baseline.01make_simulation",
+        "documentation": {}
+    },
+    {
+        "label": "mof",
+        "kind": 5,
+        "importPath": "Baseline.02make_multiple_simulations",
+        "description": "Baseline.02make_multiple_simulations",
+        "peekOfCode": "mof = \"\"\npressure = \"1\"\ntemp = \"293.15\"\ngas = \"O2\"\nbase_input = \"00base_template.input\"\nCUTOFFVDW = \"14.0\"\nCUTOFFCHARGECHARGE = \"14.0\"\nCUTOFFCHARGEBONDDIPOLE = \"14.0\"\nCUTOFFBONDDIPOLEBONDDIPOLE = \"14.0\"\nNumberOfCycles = \"20000\"",
+        "detail": "Baseline.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "pressure",
+        "kind": 5,
+        "importPath": "Baseline.02make_multiple_simulations",
+        "description": "Baseline.02make_multiple_simulations",
+        "peekOfCode": "pressure = \"1\"\ntemp = \"293.15\"\ngas = \"O2\"\nbase_input = \"00base_template.input\"\nCUTOFFVDW = \"14.0\"\nCUTOFFCHARGECHARGE = \"14.0\"\nCUTOFFCHARGEBONDDIPOLE = \"14.0\"\nCUTOFFBONDDIPOLEBONDDIPOLE = \"14.0\"\nNumberOfCycles = \"20000\"\nNumberOfInitializationCycles = \"10000\"",
+        "detail": "Baseline.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "temp",
+        "kind": 5,
+        "importPath": "Baseline.02make_multiple_simulations",
+        "description": "Baseline.02make_multiple_simulations",
+        "peekOfCode": "temp = \"293.15\"\ngas = \"O2\"\nbase_input = \"00base_template.input\"\nCUTOFFVDW = \"14.0\"\nCUTOFFCHARGECHARGE = \"14.0\"\nCUTOFFCHARGEBONDDIPOLE = \"14.0\"\nCUTOFFBONDDIPOLEBONDDIPOLE = \"14.0\"\nNumberOfCycles = \"20000\"\nNumberOfInitializationCycles = \"10000\"\nPrintEvery = \"5000\"",
+        "detail": "Baseline.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "gas",
+        "kind": 5,
+        "importPath": "Baseline.02make_multiple_simulations",
+        "description": "Baseline.02make_multiple_simulations",
+        "peekOfCode": "gas = \"O2\"\nbase_input = \"00base_template.input\"\nCUTOFFVDW = \"14.0\"\nCUTOFFCHARGECHARGE = \"14.0\"\nCUTOFFCHARGEBONDDIPOLE = \"14.0\"\nCUTOFFBONDDIPOLEBONDDIPOLE = \"14.0\"\nNumberOfCycles = \"20000\"\nNumberOfInitializationCycles = \"10000\"\nPrintEvery = \"5000\"\ncif_list_path = \"04cif_list.txt\"",
+        "detail": "Baseline.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "base_input",
+        "kind": 5,
+        "importPath": "Baseline.02make_multiple_simulations",
+        "description": "Baseline.02make_multiple_simulations",
+        "peekOfCode": "base_input = \"00base_template.input\"\nCUTOFFVDW = \"14.0\"\nCUTOFFCHARGECHARGE = \"14.0\"\nCUTOFFCHARGEBONDDIPOLE = \"14.0\"\nCUTOFFBONDDIPOLEBONDDIPOLE = \"14.0\"\nNumberOfCycles = \"20000\"\nNumberOfInitializationCycles = \"10000\"\nPrintEvery = \"5000\"\ncif_list_path = \"04cif_list.txt\"\nwith open(cif_list_path, \"r\") as file:",
+        "detail": "Baseline.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "CUTOFFVDW",
+        "kind": 5,
+        "importPath": "Baseline.02make_multiple_simulations",
+        "description": "Baseline.02make_multiple_simulations",
+        "peekOfCode": "CUTOFFVDW = \"14.0\"\nCUTOFFCHARGECHARGE = \"14.0\"\nCUTOFFCHARGEBONDDIPOLE = \"14.0\"\nCUTOFFBONDDIPOLEBONDDIPOLE = \"14.0\"\nNumberOfCycles = \"20000\"\nNumberOfInitializationCycles = \"10000\"\nPrintEvery = \"5000\"\ncif_list_path = \"04cif_list.txt\"\nwith open(cif_list_path, \"r\") as file:\n    cif_list = [line.strip() for line in file if line.strip()]",
+        "detail": "Baseline.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "CUTOFFCHARGECHARGE",
+        "kind": 5,
+        "importPath": "Baseline.02make_multiple_simulations",
+        "description": "Baseline.02make_multiple_simulations",
+        "peekOfCode": "CUTOFFCHARGECHARGE = \"14.0\"\nCUTOFFCHARGEBONDDIPOLE = \"14.0\"\nCUTOFFBONDDIPOLEBONDDIPOLE = \"14.0\"\nNumberOfCycles = \"20000\"\nNumberOfInitializationCycles = \"10000\"\nPrintEvery = \"5000\"\ncif_list_path = \"04cif_list.txt\"\nwith open(cif_list_path, \"r\") as file:\n    cif_list = [line.strip() for line in file if line.strip()]\n    # Execute the simulation script for each CIF",
+        "detail": "Baseline.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "CUTOFFCHARGEBONDDIPOLE",
+        "kind": 5,
+        "importPath": "Baseline.02make_multiple_simulations",
+        "description": "Baseline.02make_multiple_simulations",
+        "peekOfCode": "CUTOFFCHARGEBONDDIPOLE = \"14.0\"\nCUTOFFBONDDIPOLEBONDDIPOLE = \"14.0\"\nNumberOfCycles = \"20000\"\nNumberOfInitializationCycles = \"10000\"\nPrintEvery = \"5000\"\ncif_list_path = \"04cif_list.txt\"\nwith open(cif_list_path, \"r\") as file:\n    cif_list = [line.strip() for line in file if line.strip()]\n    # Execute the simulation script for each CIF\n    for mof in cif_list:",
+        "detail": "Baseline.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "CUTOFFBONDDIPOLEBONDDIPOLE",
+        "kind": 5,
+        "importPath": "Baseline.02make_multiple_simulations",
+        "description": "Baseline.02make_multiple_simulations",
+        "peekOfCode": "CUTOFFBONDDIPOLEBONDDIPOLE = \"14.0\"\nNumberOfCycles = \"20000\"\nNumberOfInitializationCycles = \"10000\"\nPrintEvery = \"5000\"\ncif_list_path = \"04cif_list.txt\"\nwith open(cif_list_path, \"r\") as file:\n    cif_list = [line.strip() for line in file if line.strip()]\n    # Execute the simulation script for each CIF\n    for mof in cif_list:\n        print(mof)",
+        "detail": "Baseline.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "NumberOfCycles",
+        "kind": 5,
+        "importPath": "Baseline.02make_multiple_simulations",
+        "description": "Baseline.02make_multiple_simulations",
+        "peekOfCode": "NumberOfCycles = \"20000\"\nNumberOfInitializationCycles = \"10000\"\nPrintEvery = \"5000\"\ncif_list_path = \"04cif_list.txt\"\nwith open(cif_list_path, \"r\") as file:\n    cif_list = [line.strip() for line in file if line.strip()]\n    # Execute the simulation script for each CIF\n    for mof in cif_list:\n        print(mof)\n        try:",
+        "detail": "Baseline.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "NumberOfInitializationCycles",
+        "kind": 5,
+        "importPath": "Baseline.02make_multiple_simulations",
+        "description": "Baseline.02make_multiple_simulations",
+        "peekOfCode": "NumberOfInitializationCycles = \"10000\"\nPrintEvery = \"5000\"\ncif_list_path = \"04cif_list.txt\"\nwith open(cif_list_path, \"r\") as file:\n    cif_list = [line.strip() for line in file if line.strip()]\n    # Execute the simulation script for each CIF\n    for mof in cif_list:\n        print(mof)\n        try:\n            subprocess.run([\"python\", \"01make_simulation.py\",",
+        "detail": "Baseline.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "PrintEvery",
+        "kind": 5,
+        "importPath": "Baseline.02make_multiple_simulations",
+        "description": "Baseline.02make_multiple_simulations",
+        "peekOfCode": "PrintEvery = \"5000\"\ncif_list_path = \"04cif_list.txt\"\nwith open(cif_list_path, \"r\") as file:\n    cif_list = [line.strip() for line in file if line.strip()]\n    # Execute the simulation script for each CIF\n    for mof in cif_list:\n        print(mof)\n        try:\n            subprocess.run([\"python\", \"01make_simulation.py\",\n                            \"--mof\", mof,",
+        "detail": "Baseline.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "cif_list_path",
+        "kind": 5,
+        "importPath": "Baseline.02make_multiple_simulations",
+        "description": "Baseline.02make_multiple_simulations",
+        "peekOfCode": "cif_list_path = \"04cif_list.txt\"\nwith open(cif_list_path, \"r\") as file:\n    cif_list = [line.strip() for line in file if line.strip()]\n    # Execute the simulation script for each CIF\n    for mof in cif_list:\n        print(mof)\n        try:\n            subprocess.run([\"python\", \"01make_simulation.py\",\n                            \"--mof\", mof,\n                            \"--pressure\" ,pressure,",
+        "detail": "Baseline.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "run_simulation",
+        "kind": 2,
+        "importPath": "Baseline.03run_all",
+        "description": "Baseline.03run_all",
+        "peekOfCode": "def run_simulation(sim_dir, raspa_dir):\n    try:\n        print(f\"Running simulation in {sim_dir}...\")\n        simulation_command = f\"{raspa_dir}/bin/simulate simulation.input\"\n        subprocess.run(simulation_command, shell=True, check=True, cwd=sim_dir)  # 해당 디렉토리에서 실행\n        print(f\"Simulation completed in {sim_dir}.\")\n    except subprocess.CalledProcessError as e:\n        print(f\"Error occurred in {sim_dir}: {e}\")\ndef main():\n    # 명령줄 인자 파서 설정",
+        "detail": "Baseline.03run_all",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "Baseline.03run_all",
+        "description": "Baseline.03run_all",
+        "peekOfCode": "def main():\n    # 명령줄 인자 파서 설정\n    parser = argparse.ArgumentParser(description=\"Run simulations in parallel across directories.\")\n    parser.add_argument(\"--num_cpus\", type=int, default=10, help=\"Number of CPUs to use for parallel processing (-1 for all available CPUs).\")\n    RASPA_DIR = os.getenv(\"RASPA_DIR\")\n    if not RASPA_DIR:\n        raise EnvironmentError(\"RASPA_DIR 환경 변수가 설정되지 않았습니다.\")\n    args = parser.parse_args()\n    # 현재 디렉토리의 서브디렉토리 가져오기\n    sim_dirs = [d for d in os.listdir('.') if os.path.isdir(d)]",
+        "detail": "Baseline.03run_all",
+        "documentation": {}
+    },
+    {
+        "label": "process_for_path",
+        "kind": 2,
+        "importPath": "Baseline.05crop_simulations",
+        "description": "Baseline.05crop_simulations",
+        "peekOfCode": "def process_for_path(path):\n    print(path)\n    sim_name = path.split(\"/Output/System_0\")[0]\n    sim_splited = sim_name.split(\"_\")\n    cutoff = sim_splited[-1]\n    pressure = float(sim_splited[-2].split(\"bar\")[0])\n    temp = float(sim_splited[-3].split(\"K\")[0])\n    gas =  sim_splited[-4]\n    mof = \"_\".join(sim_splited[:-4])\n    dic = {",
+        "detail": "Baseline.05crop_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "copysim",
+        "kind": 2,
+        "importPath": "Baseline.pyrascont",
+        "description": "Baseline.pyrascont",
+        "peekOfCode": "def copysim(dir_orig, dir_prefix, N_copy):\n    # dir_org: original directory\n    # dir_prefix: prefix for copied directories\n    # N_copy: number of copies\n    dir_pre = dir_prefix\n    #basepath = os.path.dirname(os.path.abspath(__file__))\n    basepath = os.getcwd()\n    dirlist_copied = []\n    for ii in range(N_copy):\n        dirnam_tmp = dir_pre + '{0:03d}'.format(ii)",
+        "detail": "Baseline.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "editsim",
+        "kind": 2,
+        "importPath": "Baseline.pyrascont",
+        "description": "Baseline.pyrascont",
+        "peekOfCode": "def editsim(targ_dir, P_targ, T_targ, Sorbent, UnitCells, PrintResult=False):\n    basepath = os.getcwd()\n    os.chdir(targ_dir)\n    f = open('simulation.input','r')\n    f_cont = f.readlines()\n    f.close()\n    n_extP = len('ExternalPressure')\n    n_extT = len('ExternalTemperature') \n    n_sorb = len('FrameworkName')\n    n_unit = len('UnitCells')",
+        "detail": "Baseline.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "runsim",
+        "kind": 2,
+        "importPath": "Baseline.pyrascont",
+        "description": "Baseline.pyrascont",
+        "peekOfCode": "def runsim(targ_dir):\n    basepath = os.getcwd()\n    os.chdir(targ_dir)\n    os.system('nohup sh run simulation.input &')\n    os.chdir(basepath)\n# %% Find the simulation directories based on its prefix\ndef findsimdir(targ_prefix):\n    dir_list = os.listdir()\n    n_pre = len(targ_prefix)\n    targ_dir_list = []",
+        "detail": "Baseline.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "findsimdir",
+        "kind": 2,
+        "importPath": "Baseline.pyrascont",
+        "description": "Baseline.pyrascont",
+        "peekOfCode": "def findsimdir(targ_prefix):\n    dir_list = os.listdir()\n    n_pre = len(targ_prefix)\n    targ_dir_list = []\n    for ff in dir_list:\n        if ff[:n_pre] == targ_prefix:\n            targ_dir_list.append(ff)\n    targ_dir_list.sort()\n    return targ_dir_list\n# %% Remove simulation directories based on its prefix",
+        "detail": "Baseline.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "removesim",
+        "kind": 2,
+        "importPath": "Baseline.pyrascont",
+        "description": "Baseline.pyrascont",
+        "peekOfCode": "def removesim(targ_prefix):\n    n_prefix = len(targ_prefix)\n    f_list = os.listdir()\n    f_list_order = np.sort(f_list)\n    for ff in f_list_order:\n        if len(ff) < n_prefix:\n            continue\n        if os.path.isfile(ff):\n            continue\n        if ff[:n_prefix] == targ_prefix:",
+        "detail": "Baseline.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "cpucheck",
+        "kind": 2,
+        "importPath": "Baseline.pyrascont",
+        "description": "Baseline.pyrascont",
+        "peekOfCode": "def cpucheck():\n    #load1, load5, load15 = psutil.getloadavg() \n    #cpu_usage_percent = (load15/os.cpu_count()) * 100 \n    cpu_use_list = []\n    for ii in range(4):\n        cpu_use_test = psutil.cpu_percent(0.5)\n        cpu_use_list.append(cpu_use_test)\n    arg_min = np.argmin(cpu_use_list)\n    cpu_dum = cpu_use_list.pop(arg_min)\n    cpu_perc_average = np.mean(cpu_dum)",
+        "detail": "Baseline.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "cropsim",
+        "kind": 2,
+        "importPath": "Baseline.pyrascont",
+        "description": "Baseline.pyrascont",
+        "peekOfCode": "def cropsim(targ_dir):\n    dir_targ_nam = targ_dir\n    basepath = os.getcwd()\n    os.chdir(basepath)\n    os.chdir(dir_targ_nam)\n    os.chdir('Output/System_0')\n    f_nam_list = os.listdir()\n    #print(f_nam_list)\n    prop_targ = '\\tAverage loading absolute [mol/kg frame'\n    n_prop_str = len(prop_targ)",
+        "detail": "Baseline.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "cif2Ucell",
+        "kind": 2,
+        "importPath": "Baseline.pyrascont",
+        "description": "Baseline.pyrascont",
+        "peekOfCode": "def cif2Ucell(cif, cutoff, Display = False):\n    deg2rad=pi/180.\n    f_tmp = open(cif + '.cif')\n    f_cont = f_tmp.readlines()\n    f_tmp.close()\n    n_a = len('_cell_length_a')\n    n_b = len('_cell_length_b')\n    n_c = len('_cell_length_c')\n    n_alp = len('_cell_angle_alpha')\n    n_bet = len('_cell_angle_beta')",
+        "detail": "Baseline.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "killall",
+        "kind": 2,
+        "importPath": "Baseline.pyrascont",
+        "description": "Baseline.pyrascont",
+        "peekOfCode": "def killall():\n    cc = 0\n    for proc in psutil.process_iter():\n        #print(proc.name())\n        #print(proc)\n        if proc.name() == 'simulate':\n            cc =cc + 1\n            proc.kill()\n            print(proc.name(), '#', cc,': ', proc.pid, ' is killed !') \n'''",
+        "detail": "Baseline.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "pi",
+        "kind": 5,
+        "importPath": "Baseline.pyrascont",
+        "description": "Baseline.pyrascont",
+        "peekOfCode": "pi = np.pi\n#targ_dir = 'sim_copy0'\n#basepath = os.path.abspath(os.path.dirname(__file__))\n#P_targ = 500000\n#T_targ = 323\n# %% Function for copy simulation directories\ndef copysim(dir_orig, dir_prefix, N_copy):\n    # dir_org: original directory\n    # dir_prefix: prefix for copied directories\n    # N_copy: number of copies",
+        "detail": "Baseline.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "#targ_dir",
+        "kind": 5,
+        "importPath": "Baseline.pyrascont",
+        "description": "Baseline.pyrascont",
+        "peekOfCode": "#targ_dir = 'sim_copy0'\n#basepath = os.path.abspath(os.path.dirname(__file__))\n#P_targ = 500000\n#T_targ = 323\n# %% Function for copy simulation directories\ndef copysim(dir_orig, dir_prefix, N_copy):\n    # dir_org: original directory\n    # dir_prefix: prefix for copied directories\n    # N_copy: number of copies\n    dir_pre = dir_prefix",
+        "detail": "Baseline.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "#basepath",
+        "kind": 5,
+        "importPath": "Baseline.pyrascont",
+        "description": "Baseline.pyrascont",
+        "peekOfCode": "#basepath = os.path.abspath(os.path.dirname(__file__))\n#P_targ = 500000\n#T_targ = 323\n# %% Function for copy simulation directories\ndef copysim(dir_orig, dir_prefix, N_copy):\n    # dir_org: original directory\n    # dir_prefix: prefix for copied directories\n    # N_copy: number of copies\n    dir_pre = dir_prefix\n    #basepath = os.path.dirname(os.path.abspath(__file__))",
+        "detail": "Baseline.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "#P_targ",
+        "kind": 5,
+        "importPath": "Baseline.pyrascont",
+        "description": "Baseline.pyrascont",
+        "peekOfCode": "#P_targ = 500000\n#T_targ = 323\n# %% Function for copy simulation directories\ndef copysim(dir_orig, dir_prefix, N_copy):\n    # dir_org: original directory\n    # dir_prefix: prefix for copied directories\n    # N_copy: number of copies\n    dir_pre = dir_prefix\n    #basepath = os.path.dirname(os.path.abspath(__file__))\n    basepath = os.getcwd()",
+        "detail": "Baseline.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "#T_targ",
+        "kind": 5,
+        "importPath": "Baseline.pyrascont",
+        "description": "Baseline.pyrascont",
+        "peekOfCode": "#T_targ = 323\n# %% Function for copy simulation directories\ndef copysim(dir_orig, dir_prefix, N_copy):\n    # dir_org: original directory\n    # dir_prefix: prefix for copied directories\n    # N_copy: number of copies\n    dir_pre = dir_prefix\n    #basepath = os.path.dirname(os.path.abspath(__file__))\n    basepath = os.getcwd()\n    dirlist_copied = []",
+        "detail": "Baseline.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "replace_placeholders",
+        "kind": 2,
+        "importPath": "Test01.01make_simulation",
+        "description": "Test01.01make_simulation",
+        "peekOfCode": "def replace_placeholders(template, replacements):\n    for key, value in replacements.items():\n        template = template.replace(f\"{{{key}}}\", str(value))\n    return template\ndef process_mof_simulations(mof, pressure, temp, gas, base_input,  cutoffvdw, cutoffchargecharge, cutoffchargebonddipole, cutoffbonddipolebonddipole, NumberOfCycles, NumberOfInitializationCycles, PrintEvery):\n    # 선택한 모프의 UNITCELL계산을 위한 코드\n    raspa_dir = os.environ.get(\"RASPA_DIR\")\n    if not raspa_dir:\n        raise EnvironmentError(\"RASPA_DIR 환경 변수가 설정되어 있지 않습니다.\")\n    # CIF 파일 경로 설정",
+        "detail": "Test01.01make_simulation",
+        "documentation": {}
+    },
+    {
+        "label": "process_mof_simulations",
+        "kind": 2,
+        "importPath": "Test01.01make_simulation",
+        "description": "Test01.01make_simulation",
+        "peekOfCode": "def process_mof_simulations(mof, pressure, temp, gas, base_input,  cutoffvdw, cutoffchargecharge, cutoffchargebonddipole, cutoffbonddipolebonddipole, NumberOfCycles, NumberOfInitializationCycles, PrintEvery):\n    # 선택한 모프의 UNITCELL계산을 위한 코드\n    raspa_dir = os.environ.get(\"RASPA_DIR\")\n    if not raspa_dir:\n        raise EnvironmentError(\"RASPA_DIR 환경 변수가 설정되어 있지 않습니다.\")\n    # CIF 파일 경로 설정\n    cifs_path = os.path.join(raspa_dir, \"share\", \"raspa\", \"structures\", \"cif\")\n    res_ucell = pyrascont.cif2Ucell(os.path.join(cifs_path, mof), cutoffvdw, Display=True)\n    unitcell_str = ' '.join(map(str, res_ucell))\n    ## BASETEMPLATE의 값을 치환하는 코드",
+        "detail": "Test01.01make_simulation",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "Test01.01make_simulation",
+        "description": "Test01.01make_simulation",
+        "peekOfCode": "def main():\n    parser = argparse.ArgumentParser(description=\"Process MOF simulations.\")\n    parser.add_argument(\"--mof\", type=str, required=True, help=\"MOF file name (without extension)\")\n    parser.add_argument(\"--pressure\", type=float, required=True, help=\"Pressure in bar\")\n    parser.add_argument(\"--temp\", type=float, required=True, help=\"Temperature in Kelvin\")\n    parser.add_argument(\"--gas\", type=str, required=True, help=\"Gas type\")\n    parser.add_argument(\"--base_input\", type=str, required=True, help=\"Base input template for simulation\")\n    parser.add_argument(\"--cutoffvdw\", type=float, required=True, help=\"cutoffvdw distance in Angstroms\")\n    parser.add_argument(\"--cutoffchargecharge\", type=float, required=True, help=\"cutoffchargecharge distance in Angstroms\")\n    parser.add_argument(\"--cutoffchargebonddipole\", type=float, required=True, help=\"cutoffchargebonddipole distance in Angstroms\")",
+        "detail": "Test01.01make_simulation",
+        "documentation": {}
+    },
+    {
+        "label": "mof",
+        "kind": 5,
+        "importPath": "Test01.02make_multiple_simulations",
+        "description": "Test01.02make_multiple_simulations",
+        "peekOfCode": "mof = \"\"\npressure = \"1\"\ntemp = \"293.15\"\ngas = \"O2\"\nbase_input = \"00base_template.input\"\nCUTOFFVDW = \"14.0\"\nCUTOFFCHARGECHARGE = \"14.0\"\nCUTOFFCHARGEBONDDIPOLE = \"14.0\"\nCUTOFFBONDDIPOLEBONDDIPOLE = \"14.0\"\nNumberOfCycles = \"20000\"",
+        "detail": "Test01.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "pressure",
+        "kind": 5,
+        "importPath": "Test01.02make_multiple_simulations",
+        "description": "Test01.02make_multiple_simulations",
+        "peekOfCode": "pressure = \"1\"\ntemp = \"293.15\"\ngas = \"O2\"\nbase_input = \"00base_template.input\"\nCUTOFFVDW = \"14.0\"\nCUTOFFCHARGECHARGE = \"14.0\"\nCUTOFFCHARGEBONDDIPOLE = \"14.0\"\nCUTOFFBONDDIPOLEBONDDIPOLE = \"14.0\"\nNumberOfCycles = \"20000\"\nNumberOfInitializationCycles = \"10000\"",
+        "detail": "Test01.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "temp",
+        "kind": 5,
+        "importPath": "Test01.02make_multiple_simulations",
+        "description": "Test01.02make_multiple_simulations",
+        "peekOfCode": "temp = \"293.15\"\ngas = \"O2\"\nbase_input = \"00base_template.input\"\nCUTOFFVDW = \"14.0\"\nCUTOFFCHARGECHARGE = \"14.0\"\nCUTOFFCHARGEBONDDIPOLE = \"14.0\"\nCUTOFFBONDDIPOLEBONDDIPOLE = \"14.0\"\nNumberOfCycles = \"20000\"\nNumberOfInitializationCycles = \"10000\"\nPrintEvery = \"5000\"",
+        "detail": "Test01.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "gas",
+        "kind": 5,
+        "importPath": "Test01.02make_multiple_simulations",
+        "description": "Test01.02make_multiple_simulations",
+        "peekOfCode": "gas = \"O2\"\nbase_input = \"00base_template.input\"\nCUTOFFVDW = \"14.0\"\nCUTOFFCHARGECHARGE = \"14.0\"\nCUTOFFCHARGEBONDDIPOLE = \"14.0\"\nCUTOFFBONDDIPOLEBONDDIPOLE = \"14.0\"\nNumberOfCycles = \"20000\"\nNumberOfInitializationCycles = \"10000\"\nPrintEvery = \"5000\"\ncif_list_path = \"04cif_list.txt\"",
+        "detail": "Test01.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "base_input",
+        "kind": 5,
+        "importPath": "Test01.02make_multiple_simulations",
+        "description": "Test01.02make_multiple_simulations",
+        "peekOfCode": "base_input = \"00base_template.input\"\nCUTOFFVDW = \"14.0\"\nCUTOFFCHARGECHARGE = \"14.0\"\nCUTOFFCHARGEBONDDIPOLE = \"14.0\"\nCUTOFFBONDDIPOLEBONDDIPOLE = \"14.0\"\nNumberOfCycles = \"20000\"\nNumberOfInitializationCycles = \"10000\"\nPrintEvery = \"5000\"\ncif_list_path = \"04cif_list.txt\"\nwith open(cif_list_path, \"r\") as file:",
+        "detail": "Test01.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "CUTOFFVDW",
+        "kind": 5,
+        "importPath": "Test01.02make_multiple_simulations",
+        "description": "Test01.02make_multiple_simulations",
+        "peekOfCode": "CUTOFFVDW = \"14.0\"\nCUTOFFCHARGECHARGE = \"14.0\"\nCUTOFFCHARGEBONDDIPOLE = \"14.0\"\nCUTOFFBONDDIPOLEBONDDIPOLE = \"14.0\"\nNumberOfCycles = \"20000\"\nNumberOfInitializationCycles = \"10000\"\nPrintEvery = \"5000\"\ncif_list_path = \"04cif_list.txt\"\nwith open(cif_list_path, \"r\") as file:\n    cif_list = [line.strip() for line in file if line.strip()]",
+        "detail": "Test01.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "CUTOFFCHARGECHARGE",
+        "kind": 5,
+        "importPath": "Test01.02make_multiple_simulations",
+        "description": "Test01.02make_multiple_simulations",
+        "peekOfCode": "CUTOFFCHARGECHARGE = \"14.0\"\nCUTOFFCHARGEBONDDIPOLE = \"14.0\"\nCUTOFFBONDDIPOLEBONDDIPOLE = \"14.0\"\nNumberOfCycles = \"20000\"\nNumberOfInitializationCycles = \"10000\"\nPrintEvery = \"5000\"\ncif_list_path = \"04cif_list.txt\"\nwith open(cif_list_path, \"r\") as file:\n    cif_list = [line.strip() for line in file if line.strip()]\n    # Execute the simulation script for each CIF",
+        "detail": "Test01.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "CUTOFFCHARGEBONDDIPOLE",
+        "kind": 5,
+        "importPath": "Test01.02make_multiple_simulations",
+        "description": "Test01.02make_multiple_simulations",
+        "peekOfCode": "CUTOFFCHARGEBONDDIPOLE = \"14.0\"\nCUTOFFBONDDIPOLEBONDDIPOLE = \"14.0\"\nNumberOfCycles = \"20000\"\nNumberOfInitializationCycles = \"10000\"\nPrintEvery = \"5000\"\ncif_list_path = \"04cif_list.txt\"\nwith open(cif_list_path, \"r\") as file:\n    cif_list = [line.strip() for line in file if line.strip()]\n    # Execute the simulation script for each CIF\n    for mof in cif_list:",
+        "detail": "Test01.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "CUTOFFBONDDIPOLEBONDDIPOLE",
+        "kind": 5,
+        "importPath": "Test01.02make_multiple_simulations",
+        "description": "Test01.02make_multiple_simulations",
+        "peekOfCode": "CUTOFFBONDDIPOLEBONDDIPOLE = \"14.0\"\nNumberOfCycles = \"20000\"\nNumberOfInitializationCycles = \"10000\"\nPrintEvery = \"5000\"\ncif_list_path = \"04cif_list.txt\"\nwith open(cif_list_path, \"r\") as file:\n    cif_list = [line.strip() for line in file if line.strip()]\n    # Execute the simulation script for each CIF\n    for mof in cif_list:\n        print(mof)",
+        "detail": "Test01.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "NumberOfCycles",
+        "kind": 5,
+        "importPath": "Test01.02make_multiple_simulations",
+        "description": "Test01.02make_multiple_simulations",
+        "peekOfCode": "NumberOfCycles = \"20000\"\nNumberOfInitializationCycles = \"10000\"\nPrintEvery = \"5000\"\ncif_list_path = \"04cif_list.txt\"\nwith open(cif_list_path, \"r\") as file:\n    cif_list = [line.strip() for line in file if line.strip()]\n    # Execute the simulation script for each CIF\n    for mof in cif_list:\n        print(mof)\n        try:",
+        "detail": "Test01.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "NumberOfInitializationCycles",
+        "kind": 5,
+        "importPath": "Test01.02make_multiple_simulations",
+        "description": "Test01.02make_multiple_simulations",
+        "peekOfCode": "NumberOfInitializationCycles = \"10000\"\nPrintEvery = \"5000\"\ncif_list_path = \"04cif_list.txt\"\nwith open(cif_list_path, \"r\") as file:\n    cif_list = [line.strip() for line in file if line.strip()]\n    # Execute the simulation script for each CIF\n    for mof in cif_list:\n        print(mof)\n        try:\n            print(f\"Executing simulation for CIF: {mof}\")",
+        "detail": "Test01.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "PrintEvery",
+        "kind": 5,
+        "importPath": "Test01.02make_multiple_simulations",
+        "description": "Test01.02make_multiple_simulations",
+        "peekOfCode": "PrintEvery = \"5000\"\ncif_list_path = \"04cif_list.txt\"\nwith open(cif_list_path, \"r\") as file:\n    cif_list = [line.strip() for line in file if line.strip()]\n    # Execute the simulation script for each CIF\n    for mof in cif_list:\n        print(mof)\n        try:\n            print(f\"Executing simulation for CIF: {mof}\")\n            subprocess.run([\"python\", \"01make_simulation.py\",",
+        "detail": "Test01.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "cif_list_path",
+        "kind": 5,
+        "importPath": "Test01.02make_multiple_simulations",
+        "description": "Test01.02make_multiple_simulations",
+        "peekOfCode": "cif_list_path = \"04cif_list.txt\"\nwith open(cif_list_path, \"r\") as file:\n    cif_list = [line.strip() for line in file if line.strip()]\n    # Execute the simulation script for each CIF\n    for mof in cif_list:\n        print(mof)\n        try:\n            print(f\"Executing simulation for CIF: {mof}\")\n            subprocess.run([\"python\", \"01make_simulation.py\",\n                            \"--mof\", mof,",
+        "detail": "Test01.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "run_simulation",
+        "kind": 2,
+        "importPath": "Test01.03run_all",
+        "description": "Test01.03run_all",
+        "peekOfCode": "def run_simulation(sim_dir, raspa_dir):\n    try:\n        print(f\"Running simulation in {sim_dir}...\")\n        simulation_command = f\"{raspa_dir}/bin/simulate simulation.input\"\n        subprocess.run(simulation_command, shell=True, check=True, cwd=sim_dir)  # 해당 디렉토리에서 실행\n        print(f\"Simulation completed in {sim_dir}.\")\n    except subprocess.CalledProcessError as e:\n        print(f\"Error occurred in {sim_dir}: {e}\")\ndef main():\n    # 명령줄 인자 파서 설정",
+        "detail": "Test01.03run_all",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "Test01.03run_all",
+        "description": "Test01.03run_all",
+        "peekOfCode": "def main():\n    # 명령줄 인자 파서 설정\n    parser = argparse.ArgumentParser(description=\"Run simulations in parallel across directories.\")\n    parser.add_argument(\"--num_cpus\", type=int, default=10, help=\"Number of CPUs to use for parallel processing (-1 for all available CPUs).\")\n    RASPA_DIR = os.getenv(\"RASPA_DIR\")\n    if not RASPA_DIR:\n        raise EnvironmentError(\"RASPA_DIR 환경 변수가 설정되지 않았습니다.\")\n    args = parser.parse_args()\n    # 현재 디렉토리의 서브디렉토리 가져오기\n    sim_dirs = [d for d in os.listdir('.') if os.path.isdir(d)]",
+        "detail": "Test01.03run_all",
+        "documentation": {}
+    },
+    {
+        "label": "process_for_path",
+        "kind": 2,
+        "importPath": "Test01.05crop_simulations",
+        "description": "Test01.05crop_simulations",
+        "peekOfCode": "def process_for_path(path):\n    print(path)\n    sim_name = path.split(\"/Output/System_0\")[0]\n    sim_splited = sim_name.split(\"_\")\n    cutoff = sim_splited[-1]\n    pressure = float(sim_splited[-2].split(\"bar\")[0])\n    temp = float(sim_splited[-3].split(\"K\")[0])\n    gas =  sim_splited[-4]\n    mof = \"_\".join(sim_splited[:-4])\n    dic = {",
+        "detail": "Test01.05crop_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "copysim",
+        "kind": 2,
+        "importPath": "Test01.pyrascont",
+        "description": "Test01.pyrascont",
+        "peekOfCode": "def copysim(dir_orig, dir_prefix, N_copy):\n    # dir_org: original directory\n    # dir_prefix: prefix for copied directories\n    # N_copy: number of copies\n    dir_pre = dir_prefix\n    #basepath = os.path.dirname(os.path.abspath(__file__))\n    basepath = os.getcwd()\n    dirlist_copied = []\n    for ii in range(N_copy):\n        dirnam_tmp = dir_pre + '{0:03d}'.format(ii)",
+        "detail": "Test01.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "editsim",
+        "kind": 2,
+        "importPath": "Test01.pyrascont",
+        "description": "Test01.pyrascont",
+        "peekOfCode": "def editsim(targ_dir, P_targ, T_targ, Sorbent, UnitCells, PrintResult=False):\n    basepath = os.getcwd()\n    os.chdir(targ_dir)\n    f = open('simulation.input','r')\n    f_cont = f.readlines()\n    f.close()\n    n_extP = len('ExternalPressure')\n    n_extT = len('ExternalTemperature') \n    n_sorb = len('FrameworkName')\n    n_unit = len('UnitCells')",
+        "detail": "Test01.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "runsim",
+        "kind": 2,
+        "importPath": "Test01.pyrascont",
+        "description": "Test01.pyrascont",
+        "peekOfCode": "def runsim(targ_dir):\n    basepath = os.getcwd()\n    os.chdir(targ_dir)\n    os.system('nohup sh run simulation.input &')\n    os.chdir(basepath)\n# %% Find the simulation directories based on its prefix\ndef findsimdir(targ_prefix):\n    dir_list = os.listdir()\n    n_pre = len(targ_prefix)\n    targ_dir_list = []",
+        "detail": "Test01.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "findsimdir",
+        "kind": 2,
+        "importPath": "Test01.pyrascont",
+        "description": "Test01.pyrascont",
+        "peekOfCode": "def findsimdir(targ_prefix):\n    dir_list = os.listdir()\n    n_pre = len(targ_prefix)\n    targ_dir_list = []\n    for ff in dir_list:\n        if ff[:n_pre] == targ_prefix:\n            targ_dir_list.append(ff)\n    targ_dir_list.sort()\n    return targ_dir_list\n# %% Remove simulation directories based on its prefix",
+        "detail": "Test01.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "removesim",
+        "kind": 2,
+        "importPath": "Test01.pyrascont",
+        "description": "Test01.pyrascont",
+        "peekOfCode": "def removesim(targ_prefix):\n    n_prefix = len(targ_prefix)\n    f_list = os.listdir()\n    f_list_order = np.sort(f_list)\n    for ff in f_list_order:\n        if len(ff) < n_prefix:\n            continue\n        if os.path.isfile(ff):\n            continue\n        if ff[:n_prefix] == targ_prefix:",
+        "detail": "Test01.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "cpucheck",
+        "kind": 2,
+        "importPath": "Test01.pyrascont",
+        "description": "Test01.pyrascont",
+        "peekOfCode": "def cpucheck():\n    #load1, load5, load15 = psutil.getloadavg() \n    #cpu_usage_percent = (load15/os.cpu_count()) * 100 \n    cpu_use_list = []\n    for ii in range(4):\n        cpu_use_test = psutil.cpu_percent(0.5)\n        cpu_use_list.append(cpu_use_test)\n    arg_min = np.argmin(cpu_use_list)\n    cpu_dum = cpu_use_list.pop(arg_min)\n    cpu_perc_average = np.mean(cpu_dum)",
+        "detail": "Test01.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "cropsim",
+        "kind": 2,
+        "importPath": "Test01.pyrascont",
+        "description": "Test01.pyrascont",
+        "peekOfCode": "def cropsim(targ_dir):\n    dir_targ_nam = targ_dir\n    basepath = os.getcwd()\n    os.chdir(basepath)\n    os.chdir(dir_targ_nam)\n    os.chdir('Output/System_0')\n    f_nam_list = os.listdir()\n    #print(f_nam_list)\n    prop_targ = '\\tAverage loading absolute [mol/kg frame'\n    n_prop_str = len(prop_targ)",
+        "detail": "Test01.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "cif2Ucell",
+        "kind": 2,
+        "importPath": "Test01.pyrascont",
+        "description": "Test01.pyrascont",
+        "peekOfCode": "def cif2Ucell(cif, cutoff, Display = False):\n    deg2rad=pi/180.\n    f_tmp = open(cif + '.cif')\n    f_cont = f_tmp.readlines()\n    f_tmp.close()\n    n_a = len('_cell_length_a')\n    n_b = len('_cell_length_b')\n    n_c = len('_cell_length_c')\n    n_alp = len('_cell_angle_alpha')\n    n_bet = len('_cell_angle_beta')",
+        "detail": "Test01.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "killall",
+        "kind": 2,
+        "importPath": "Test01.pyrascont",
+        "description": "Test01.pyrascont",
+        "peekOfCode": "def killall():\n    cc = 0\n    for proc in psutil.process_iter():\n        #print(proc.name())\n        #print(proc)\n        if proc.name() == 'simulate':\n            cc =cc + 1\n            proc.kill()\n            print(proc.name(), '#', cc,': ', proc.pid, ' is killed !') \n'''",
+        "detail": "Test01.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "pi",
+        "kind": 5,
+        "importPath": "Test01.pyrascont",
+        "description": "Test01.pyrascont",
+        "peekOfCode": "pi = np.pi\n#targ_dir = 'sim_copy0'\n#basepath = os.path.abspath(os.path.dirname(__file__))\n#P_targ = 500000\n#T_targ = 323\n# %% Function for copy simulation directories\ndef copysim(dir_orig, dir_prefix, N_copy):\n    # dir_org: original directory\n    # dir_prefix: prefix for copied directories\n    # N_copy: number of copies",
+        "detail": "Test01.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "#targ_dir",
+        "kind": 5,
+        "importPath": "Test01.pyrascont",
+        "description": "Test01.pyrascont",
+        "peekOfCode": "#targ_dir = 'sim_copy0'\n#basepath = os.path.abspath(os.path.dirname(__file__))\n#P_targ = 500000\n#T_targ = 323\n# %% Function for copy simulation directories\ndef copysim(dir_orig, dir_prefix, N_copy):\n    # dir_org: original directory\n    # dir_prefix: prefix for copied directories\n    # N_copy: number of copies\n    dir_pre = dir_prefix",
+        "detail": "Test01.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "#basepath",
+        "kind": 5,
+        "importPath": "Test01.pyrascont",
+        "description": "Test01.pyrascont",
+        "peekOfCode": "#basepath = os.path.abspath(os.path.dirname(__file__))\n#P_targ = 500000\n#T_targ = 323\n# %% Function for copy simulation directories\ndef copysim(dir_orig, dir_prefix, N_copy):\n    # dir_org: original directory\n    # dir_prefix: prefix for copied directories\n    # N_copy: number of copies\n    dir_pre = dir_prefix\n    #basepath = os.path.dirname(os.path.abspath(__file__))",
+        "detail": "Test01.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "#P_targ",
+        "kind": 5,
+        "importPath": "Test01.pyrascont",
+        "description": "Test01.pyrascont",
+        "peekOfCode": "#P_targ = 500000\n#T_targ = 323\n# %% Function for copy simulation directories\ndef copysim(dir_orig, dir_prefix, N_copy):\n    # dir_org: original directory\n    # dir_prefix: prefix for copied directories\n    # N_copy: number of copies\n    dir_pre = dir_prefix\n    #basepath = os.path.dirname(os.path.abspath(__file__))\n    basepath = os.getcwd()",
+        "detail": "Test01.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "#T_targ",
+        "kind": 5,
+        "importPath": "Test01.pyrascont",
+        "description": "Test01.pyrascont",
+        "peekOfCode": "#T_targ = 323\n# %% Function for copy simulation directories\ndef copysim(dir_orig, dir_prefix, N_copy):\n    # dir_org: original directory\n    # dir_prefix: prefix for copied directories\n    # N_copy: number of copies\n    dir_pre = dir_prefix\n    #basepath = os.path.dirname(os.path.abspath(__file__))\n    basepath = os.getcwd()\n    dirlist_copied = []",
+        "detail": "Test01.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "replace_placeholders",
+        "kind": 2,
+        "importPath": "Test02.01make_simulation",
+        "description": "Test02.01make_simulation",
+        "peekOfCode": "def replace_placeholders(template, replacements):\n    for key, value in replacements.items():\n        template = template.replace(f\"{{{key}}}\", str(value))\n    return template\ndef process_mof_simulations(mof, pressure, temp, gas, base_input,  cutoffvdw, cutoffchargecharge, cutoffchargebonddipole, cutoffbonddipolebonddipole, NumberOfCycles, NumberOfInitializationCycles, PrintEvery):\n    # 선택한 모프의 UNITCELL계산을 위한 코드\n    raspa_dir = os.environ.get(\"RASPA_DIR\")\n    if not raspa_dir:\n        raise EnvironmentError(\"RASPA_DIR 환경 변수가 설정되어 있지 않습니다.\")\n    # CIF 파일 경로 설정",
+        "detail": "Test02.01make_simulation",
+        "documentation": {}
+    },
+    {
+        "label": "process_mof_simulations",
+        "kind": 2,
+        "importPath": "Test02.01make_simulation",
+        "description": "Test02.01make_simulation",
+        "peekOfCode": "def process_mof_simulations(mof, pressure, temp, gas, base_input,  cutoffvdw, cutoffchargecharge, cutoffchargebonddipole, cutoffbonddipolebonddipole, NumberOfCycles, NumberOfInitializationCycles, PrintEvery):\n    # 선택한 모프의 UNITCELL계산을 위한 코드\n    raspa_dir = os.environ.get(\"RASPA_DIR\")\n    if not raspa_dir:\n        raise EnvironmentError(\"RASPA_DIR 환경 변수가 설정되어 있지 않습니다.\")\n    # CIF 파일 경로 설정\n    cifs_path = os.path.join(raspa_dir, \"share\", \"raspa\", \"structures\", \"cif\")\n    res_ucell = pyrascont.cif2Ucell(os.path.join(cifs_path, mof), cutoffvdw, Display=True)\n    unitcell_str = ' '.join(map(str, res_ucell))\n    ## BASETEMPLATE의 값을 치환하는 코드",
+        "detail": "Test02.01make_simulation",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "Test02.01make_simulation",
+        "description": "Test02.01make_simulation",
+        "peekOfCode": "def main():\n    parser = argparse.ArgumentParser(description=\"Process MOF simulations.\")\n    parser.add_argument(\"--mof\", type=str, required=True, help=\"MOF file name (without extension)\")\n    parser.add_argument(\"--pressure\", type=float, required=True, help=\"Pressure in bar\")\n    parser.add_argument(\"--temp\", type=float, required=True, help=\"Temperature in Kelvin\")\n    parser.add_argument(\"--gas\", type=str, required=True, help=\"Gas type\")\n    parser.add_argument(\"--base_input\", type=str, required=True, help=\"Base input template for simulation\")\n    parser.add_argument(\"--cutoffvdw\", type=float, required=True, help=\"cutoffvdw distance in Angstroms\")\n    parser.add_argument(\"--cutoffchargecharge\", type=float, required=True, help=\"cutoffchargecharge distance in Angstroms\")\n    parser.add_argument(\"--cutoffchargebonddipole\", type=float, required=True, help=\"cutoffchargebonddipole distance in Angstroms\")",
+        "detail": "Test02.01make_simulation",
+        "documentation": {}
+    },
+    {
+        "label": "mof",
+        "kind": 5,
+        "importPath": "Test02.02make_multiple_simulations",
+        "description": "Test02.02make_multiple_simulations",
+        "peekOfCode": "mof = \"\"\npressure = \"1\"\ntemp = \"293.15\"\ngas = \"O2\"\nbase_input = \"00base_template.input\"\nCUTOFFVDW = \"14.0\"\nCUTOFFCHARGECHARGE = \"14.0\"\nCUTOFFCHARGEBONDDIPOLE = \"14.0\"\nCUTOFFBONDDIPOLEBONDDIPOLE = \"14.0\"\nNumberOfCycles = \"20000\"",
+        "detail": "Test02.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "pressure",
+        "kind": 5,
+        "importPath": "Test02.02make_multiple_simulations",
+        "description": "Test02.02make_multiple_simulations",
+        "peekOfCode": "pressure = \"1\"\ntemp = \"293.15\"\ngas = \"O2\"\nbase_input = \"00base_template.input\"\nCUTOFFVDW = \"14.0\"\nCUTOFFCHARGECHARGE = \"14.0\"\nCUTOFFCHARGEBONDDIPOLE = \"14.0\"\nCUTOFFBONDDIPOLEBONDDIPOLE = \"14.0\"\nNumberOfCycles = \"20000\"\nNumberOfInitializationCycles = \"10000\"",
+        "detail": "Test02.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "temp",
+        "kind": 5,
+        "importPath": "Test02.02make_multiple_simulations",
+        "description": "Test02.02make_multiple_simulations",
+        "peekOfCode": "temp = \"293.15\"\ngas = \"O2\"\nbase_input = \"00base_template.input\"\nCUTOFFVDW = \"14.0\"\nCUTOFFCHARGECHARGE = \"14.0\"\nCUTOFFCHARGEBONDDIPOLE = \"14.0\"\nCUTOFFBONDDIPOLEBONDDIPOLE = \"14.0\"\nNumberOfCycles = \"20000\"\nNumberOfInitializationCycles = \"10000\"\nPrintEvery = \"5000\"",
+        "detail": "Test02.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "gas",
+        "kind": 5,
+        "importPath": "Test02.02make_multiple_simulations",
+        "description": "Test02.02make_multiple_simulations",
+        "peekOfCode": "gas = \"O2\"\nbase_input = \"00base_template.input\"\nCUTOFFVDW = \"14.0\"\nCUTOFFCHARGECHARGE = \"14.0\"\nCUTOFFCHARGEBONDDIPOLE = \"14.0\"\nCUTOFFBONDDIPOLEBONDDIPOLE = \"14.0\"\nNumberOfCycles = \"20000\"\nNumberOfInitializationCycles = \"10000\"\nPrintEvery = \"5000\"\ncif_list_path = \"04cif_list.txt\"",
+        "detail": "Test02.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "base_input",
+        "kind": 5,
+        "importPath": "Test02.02make_multiple_simulations",
+        "description": "Test02.02make_multiple_simulations",
+        "peekOfCode": "base_input = \"00base_template.input\"\nCUTOFFVDW = \"14.0\"\nCUTOFFCHARGECHARGE = \"14.0\"\nCUTOFFCHARGEBONDDIPOLE = \"14.0\"\nCUTOFFBONDDIPOLEBONDDIPOLE = \"14.0\"\nNumberOfCycles = \"20000\"\nNumberOfInitializationCycles = \"10000\"\nPrintEvery = \"5000\"\ncif_list_path = \"04cif_list.txt\"\nwith open(cif_list_path, \"r\") as file:",
+        "detail": "Test02.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "CUTOFFVDW",
+        "kind": 5,
+        "importPath": "Test02.02make_multiple_simulations",
+        "description": "Test02.02make_multiple_simulations",
+        "peekOfCode": "CUTOFFVDW = \"14.0\"\nCUTOFFCHARGECHARGE = \"14.0\"\nCUTOFFCHARGEBONDDIPOLE = \"14.0\"\nCUTOFFBONDDIPOLEBONDDIPOLE = \"14.0\"\nNumberOfCycles = \"20000\"\nNumberOfInitializationCycles = \"10000\"\nPrintEvery = \"5000\"\ncif_list_path = \"04cif_list.txt\"\nwith open(cif_list_path, \"r\") as file:\n    cif_list = [line.strip() for line in file if line.strip()]",
+        "detail": "Test02.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "CUTOFFCHARGECHARGE",
+        "kind": 5,
+        "importPath": "Test02.02make_multiple_simulations",
+        "description": "Test02.02make_multiple_simulations",
+        "peekOfCode": "CUTOFFCHARGECHARGE = \"14.0\"\nCUTOFFCHARGEBONDDIPOLE = \"14.0\"\nCUTOFFBONDDIPOLEBONDDIPOLE = \"14.0\"\nNumberOfCycles = \"20000\"\nNumberOfInitializationCycles = \"10000\"\nPrintEvery = \"5000\"\ncif_list_path = \"04cif_list.txt\"\nwith open(cif_list_path, \"r\") as file:\n    cif_list = [line.strip() for line in file if line.strip()]\n    # Execute the simulation script for each CIF",
+        "detail": "Test02.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "CUTOFFCHARGEBONDDIPOLE",
+        "kind": 5,
+        "importPath": "Test02.02make_multiple_simulations",
+        "description": "Test02.02make_multiple_simulations",
+        "peekOfCode": "CUTOFFCHARGEBONDDIPOLE = \"14.0\"\nCUTOFFBONDDIPOLEBONDDIPOLE = \"14.0\"\nNumberOfCycles = \"20000\"\nNumberOfInitializationCycles = \"10000\"\nPrintEvery = \"5000\"\ncif_list_path = \"04cif_list.txt\"\nwith open(cif_list_path, \"r\") as file:\n    cif_list = [line.strip() for line in file if line.strip()]\n    # Execute the simulation script for each CIF\n    for mof in cif_list:",
+        "detail": "Test02.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "CUTOFFBONDDIPOLEBONDDIPOLE",
+        "kind": 5,
+        "importPath": "Test02.02make_multiple_simulations",
+        "description": "Test02.02make_multiple_simulations",
+        "peekOfCode": "CUTOFFBONDDIPOLEBONDDIPOLE = \"14.0\"\nNumberOfCycles = \"20000\"\nNumberOfInitializationCycles = \"10000\"\nPrintEvery = \"5000\"\ncif_list_path = \"04cif_list.txt\"\nwith open(cif_list_path, \"r\") as file:\n    cif_list = [line.strip() for line in file if line.strip()]\n    # Execute the simulation script for each CIF\n    for mof in cif_list:\n        print(mof)",
+        "detail": "Test02.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "NumberOfCycles",
+        "kind": 5,
+        "importPath": "Test02.02make_multiple_simulations",
+        "description": "Test02.02make_multiple_simulations",
+        "peekOfCode": "NumberOfCycles = \"20000\"\nNumberOfInitializationCycles = \"10000\"\nPrintEvery = \"5000\"\ncif_list_path = \"04cif_list.txt\"\nwith open(cif_list_path, \"r\") as file:\n    cif_list = [line.strip() for line in file if line.strip()]\n    # Execute the simulation script for each CIF\n    for mof in cif_list:\n        print(mof)\n        try:",
+        "detail": "Test02.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "NumberOfInitializationCycles",
+        "kind": 5,
+        "importPath": "Test02.02make_multiple_simulations",
+        "description": "Test02.02make_multiple_simulations",
+        "peekOfCode": "NumberOfInitializationCycles = \"10000\"\nPrintEvery = \"5000\"\ncif_list_path = \"04cif_list.txt\"\nwith open(cif_list_path, \"r\") as file:\n    cif_list = [line.strip() for line in file if line.strip()]\n    # Execute the simulation script for each CIF\n    for mof in cif_list:\n        print(mof)\n        try:\n            print(f\"Executing simulation for CIF: {mof}\")",
+        "detail": "Test02.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "PrintEvery",
+        "kind": 5,
+        "importPath": "Test02.02make_multiple_simulations",
+        "description": "Test02.02make_multiple_simulations",
+        "peekOfCode": "PrintEvery = \"5000\"\ncif_list_path = \"04cif_list.txt\"\nwith open(cif_list_path, \"r\") as file:\n    cif_list = [line.strip() for line in file if line.strip()]\n    # Execute the simulation script for each CIF\n    for mof in cif_list:\n        print(mof)\n        try:\n            print(f\"Executing simulation for CIF: {mof}\")\n            subprocess.run([\"python\", \"01make_simulation.py\",",
+        "detail": "Test02.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "cif_list_path",
+        "kind": 5,
+        "importPath": "Test02.02make_multiple_simulations",
+        "description": "Test02.02make_multiple_simulations",
+        "peekOfCode": "cif_list_path = \"04cif_list.txt\"\nwith open(cif_list_path, \"r\") as file:\n    cif_list = [line.strip() for line in file if line.strip()]\n    # Execute the simulation script for each CIF\n    for mof in cif_list:\n        print(mof)\n        try:\n            print(f\"Executing simulation for CIF: {mof}\")\n            subprocess.run([\"python\", \"01make_simulation.py\",\n                            \"--mof\", mof,",
+        "detail": "Test02.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "run_simulation",
+        "kind": 2,
+        "importPath": "Test02.03run_all",
+        "description": "Test02.03run_all",
+        "peekOfCode": "def run_simulation(sim_dir, raspa_dir):\n    try:\n        print(f\"Running simulation in {sim_dir}...\")\n        simulation_command = f\"{raspa_dir}/bin/simulate simulation.input\"\n        subprocess.run(simulation_command, shell=True, check=True, cwd=sim_dir)  # 해당 디렉토리에서 실행\n        print(f\"Simulation completed in {sim_dir}.\")\n    except subprocess.CalledProcessError as e:\n        print(f\"Error occurred in {sim_dir}: {e}\")\ndef main():\n    # 명령줄 인자 파서 설정",
+        "detail": "Test02.03run_all",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "Test02.03run_all",
+        "description": "Test02.03run_all",
+        "peekOfCode": "def main():\n    # 명령줄 인자 파서 설정\n    parser = argparse.ArgumentParser(description=\"Run simulations in parallel across directories.\")\n    parser.add_argument(\"--num_cpus\", type=int, default=10, help=\"Number of CPUs to use for parallel processing (-1 for all available CPUs).\")\n    RASPA_DIR = os.getenv(\"RASPA_DIR\")\n    if not RASPA_DIR:\n        raise EnvironmentError(\"RASPA_DIR 환경 변수가 설정되지 않았습니다.\")\n    args = parser.parse_args()\n    # 현재 디렉토리의 서브디렉토리 가져오기\n    sim_dirs = [d for d in os.listdir('.') if os.path.isdir(d)]",
+        "detail": "Test02.03run_all",
+        "documentation": {}
+    },
+    {
+        "label": "process_for_path",
+        "kind": 2,
+        "importPath": "Test02.05crop_simulations",
+        "description": "Test02.05crop_simulations",
+        "peekOfCode": "def process_for_path(path):\n    print(path)\n    sim_name = path.split(\"/Output/System_0\")[0]\n    sim_splited = sim_name.split(\"_\")\n    cutoff = sim_splited[-1]\n    pressure = float(sim_splited[-2].split(\"bar\")[0])\n    temp = float(sim_splited[-3].split(\"K\")[0])\n    gas =  sim_splited[-4]\n    mof = \"_\".join(sim_splited[:-4])\n    dic = {",
+        "detail": "Test02.05crop_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "copysim",
+        "kind": 2,
+        "importPath": "Test02.pyrascont",
+        "description": "Test02.pyrascont",
+        "peekOfCode": "def copysim(dir_orig, dir_prefix, N_copy):\n    # dir_org: original directory\n    # dir_prefix: prefix for copied directories\n    # N_copy: number of copies\n    dir_pre = dir_prefix\n    #basepath = os.path.dirname(os.path.abspath(__file__))\n    basepath = os.getcwd()\n    dirlist_copied = []\n    for ii in range(N_copy):\n        dirnam_tmp = dir_pre + '{0:03d}'.format(ii)",
+        "detail": "Test02.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "editsim",
+        "kind": 2,
+        "importPath": "Test02.pyrascont",
+        "description": "Test02.pyrascont",
+        "peekOfCode": "def editsim(targ_dir, P_targ, T_targ, Sorbent, UnitCells, PrintResult=False):\n    basepath = os.getcwd()\n    os.chdir(targ_dir)\n    f = open('simulation.input','r')\n    f_cont = f.readlines()\n    f.close()\n    n_extP = len('ExternalPressure')\n    n_extT = len('ExternalTemperature') \n    n_sorb = len('FrameworkName')\n    n_unit = len('UnitCells')",
+        "detail": "Test02.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "runsim",
+        "kind": 2,
+        "importPath": "Test02.pyrascont",
+        "description": "Test02.pyrascont",
+        "peekOfCode": "def runsim(targ_dir):\n    basepath = os.getcwd()\n    os.chdir(targ_dir)\n    os.system('nohup sh run simulation.input &')\n    os.chdir(basepath)\n# %% Find the simulation directories based on its prefix\ndef findsimdir(targ_prefix):\n    dir_list = os.listdir()\n    n_pre = len(targ_prefix)\n    targ_dir_list = []",
+        "detail": "Test02.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "findsimdir",
+        "kind": 2,
+        "importPath": "Test02.pyrascont",
+        "description": "Test02.pyrascont",
+        "peekOfCode": "def findsimdir(targ_prefix):\n    dir_list = os.listdir()\n    n_pre = len(targ_prefix)\n    targ_dir_list = []\n    for ff in dir_list:\n        if ff[:n_pre] == targ_prefix:\n            targ_dir_list.append(ff)\n    targ_dir_list.sort()\n    return targ_dir_list\n# %% Remove simulation directories based on its prefix",
+        "detail": "Test02.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "removesim",
+        "kind": 2,
+        "importPath": "Test02.pyrascont",
+        "description": "Test02.pyrascont",
+        "peekOfCode": "def removesim(targ_prefix):\n    n_prefix = len(targ_prefix)\n    f_list = os.listdir()\n    f_list_order = np.sort(f_list)\n    for ff in f_list_order:\n        if len(ff) < n_prefix:\n            continue\n        if os.path.isfile(ff):\n            continue\n        if ff[:n_prefix] == targ_prefix:",
+        "detail": "Test02.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "cpucheck",
+        "kind": 2,
+        "importPath": "Test02.pyrascont",
+        "description": "Test02.pyrascont",
+        "peekOfCode": "def cpucheck():\n    #load1, load5, load15 = psutil.getloadavg() \n    #cpu_usage_percent = (load15/os.cpu_count()) * 100 \n    cpu_use_list = []\n    for ii in range(4):\n        cpu_use_test = psutil.cpu_percent(0.5)\n        cpu_use_list.append(cpu_use_test)\n    arg_min = np.argmin(cpu_use_list)\n    cpu_dum = cpu_use_list.pop(arg_min)\n    cpu_perc_average = np.mean(cpu_dum)",
+        "detail": "Test02.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "cropsim",
+        "kind": 2,
+        "importPath": "Test02.pyrascont",
+        "description": "Test02.pyrascont",
+        "peekOfCode": "def cropsim(targ_dir):\n    dir_targ_nam = targ_dir\n    basepath = os.getcwd()\n    os.chdir(basepath)\n    os.chdir(dir_targ_nam)\n    os.chdir('Output/System_0')\n    f_nam_list = os.listdir()\n    #print(f_nam_list)\n    prop_targ = '\\tAverage loading absolute [mol/kg frame'\n    n_prop_str = len(prop_targ)",
+        "detail": "Test02.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "cif2Ucell",
+        "kind": 2,
+        "importPath": "Test02.pyrascont",
+        "description": "Test02.pyrascont",
+        "peekOfCode": "def cif2Ucell(cif, cutoff, Display = False):\n    deg2rad=pi/180.\n    f_tmp = open(cif + '.cif')\n    f_cont = f_tmp.readlines()\n    f_tmp.close()\n    n_a = len('_cell_length_a')\n    n_b = len('_cell_length_b')\n    n_c = len('_cell_length_c')\n    n_alp = len('_cell_angle_alpha')\n    n_bet = len('_cell_angle_beta')",
+        "detail": "Test02.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "killall",
+        "kind": 2,
+        "importPath": "Test02.pyrascont",
+        "description": "Test02.pyrascont",
+        "peekOfCode": "def killall():\n    cc = 0\n    for proc in psutil.process_iter():\n        #print(proc.name())\n        #print(proc)\n        if proc.name() == 'simulate':\n            cc =cc + 1\n            proc.kill()\n            print(proc.name(), '#', cc,': ', proc.pid, ' is killed !') \n'''",
+        "detail": "Test02.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "pi",
+        "kind": 5,
+        "importPath": "Test02.pyrascont",
+        "description": "Test02.pyrascont",
+        "peekOfCode": "pi = np.pi\n#targ_dir = 'sim_copy0'\n#basepath = os.path.abspath(os.path.dirname(__file__))\n#P_targ = 500000\n#T_targ = 323\n# %% Function for copy simulation directories\ndef copysim(dir_orig, dir_prefix, N_copy):\n    # dir_org: original directory\n    # dir_prefix: prefix for copied directories\n    # N_copy: number of copies",
+        "detail": "Test02.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "#targ_dir",
+        "kind": 5,
+        "importPath": "Test02.pyrascont",
+        "description": "Test02.pyrascont",
+        "peekOfCode": "#targ_dir = 'sim_copy0'\n#basepath = os.path.abspath(os.path.dirname(__file__))\n#P_targ = 500000\n#T_targ = 323\n# %% Function for copy simulation directories\ndef copysim(dir_orig, dir_prefix, N_copy):\n    # dir_org: original directory\n    # dir_prefix: prefix for copied directories\n    # N_copy: number of copies\n    dir_pre = dir_prefix",
+        "detail": "Test02.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "#basepath",
+        "kind": 5,
+        "importPath": "Test02.pyrascont",
+        "description": "Test02.pyrascont",
+        "peekOfCode": "#basepath = os.path.abspath(os.path.dirname(__file__))\n#P_targ = 500000\n#T_targ = 323\n# %% Function for copy simulation directories\ndef copysim(dir_orig, dir_prefix, N_copy):\n    # dir_org: original directory\n    # dir_prefix: prefix for copied directories\n    # N_copy: number of copies\n    dir_pre = dir_prefix\n    #basepath = os.path.dirname(os.path.abspath(__file__))",
+        "detail": "Test02.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "#P_targ",
+        "kind": 5,
+        "importPath": "Test02.pyrascont",
+        "description": "Test02.pyrascont",
+        "peekOfCode": "#P_targ = 500000\n#T_targ = 323\n# %% Function for copy simulation directories\ndef copysim(dir_orig, dir_prefix, N_copy):\n    # dir_org: original directory\n    # dir_prefix: prefix for copied directories\n    # N_copy: number of copies\n    dir_pre = dir_prefix\n    #basepath = os.path.dirname(os.path.abspath(__file__))\n    basepath = os.getcwd()",
+        "detail": "Test02.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "#T_targ",
+        "kind": 5,
+        "importPath": "Test02.pyrascont",
+        "description": "Test02.pyrascont",
+        "peekOfCode": "#T_targ = 323\n# %% Function for copy simulation directories\ndef copysim(dir_orig, dir_prefix, N_copy):\n    # dir_org: original directory\n    # dir_prefix: prefix for copied directories\n    # N_copy: number of copies\n    dir_pre = dir_prefix\n    #basepath = os.path.dirname(os.path.abspath(__file__))\n    basepath = os.getcwd()\n    dirlist_copied = []",
+        "detail": "Test02.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "replace_placeholders",
+        "kind": 2,
+        "importPath": "Test03.2.01make_simulation",
+        "description": "Test03.2.01make_simulation",
+        "peekOfCode": "def replace_placeholders(template, replacements):\n    for key, value in replacements.items():\n        template = template.replace(f\"{{{key}}}\", str(value))\n    return template\ndef process_mof_simulations(mof, pressure, temp, gas, base_input,  cutoffvdw, cutoffchargecharge, cutoffchargebonddipole, cutoffbonddipolebonddipole, NumberOfCycles, NumberOfInitializationCycles, PrintEvery):\n    # 선택한 모프의 UNITCELL계산을 위한 코드\n    raspa_dir = os.environ.get(\"RASPA_DIR\")\n    if not raspa_dir:\n        raise EnvironmentError(\"RASPA_DIR 환경 변수가 설정되어 있지 않습니다.\")\n    # CIF 파일 경로 설정",
+        "detail": "Test03.2.01make_simulation",
+        "documentation": {}
+    },
+    {
+        "label": "process_mof_simulations",
+        "kind": 2,
+        "importPath": "Test03.2.01make_simulation",
+        "description": "Test03.2.01make_simulation",
+        "peekOfCode": "def process_mof_simulations(mof, pressure, temp, gas, base_input,  cutoffvdw, cutoffchargecharge, cutoffchargebonddipole, cutoffbonddipolebonddipole, NumberOfCycles, NumberOfInitializationCycles, PrintEvery):\n    # 선택한 모프의 UNITCELL계산을 위한 코드\n    raspa_dir = os.environ.get(\"RASPA_DIR\")\n    if not raspa_dir:\n        raise EnvironmentError(\"RASPA_DIR 환경 변수가 설정되어 있지 않습니다.\")\n    # CIF 파일 경로 설정\n    cifs_path = os.path.join(raspa_dir, \"share\", \"raspa\", \"structures\", \"cif\")\n    res_ucell = pyrascont.cif2Ucell(os.path.join(cifs_path, mof), cutoffvdw, Display=True)\n    unitcell_str = ' '.join(map(str, res_ucell))\n    ## BASETEMPLATE의 값을 치환하는 코드",
+        "detail": "Test03.2.01make_simulation",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "Test03.2.01make_simulation",
+        "description": "Test03.2.01make_simulation",
+        "peekOfCode": "def main():\n    parser = argparse.ArgumentParser(description=\"Process MOF simulations.\")\n    parser.add_argument(\"--mof\", type=str, required=True, help=\"MOF file name (without extension)\")\n    parser.add_argument(\"--pressure\", type=float, required=True, help=\"Pressure in bar\")\n    parser.add_argument(\"--temp\", type=float, required=True, help=\"Temperature in Kelvin\")\n    parser.add_argument(\"--gas\", type=str, required=True, help=\"Gas type\")\n    parser.add_argument(\"--base_input\", type=str, required=True, help=\"Base input template for simulation\")\n    parser.add_argument(\"--cutoffvdw\", type=float, required=True, help=\"cutoffvdw distance in Angstroms\")\n    parser.add_argument(\"--cutoffchargecharge\", type=float, required=True, help=\"cutoffchargecharge distance in Angstroms\")\n    parser.add_argument(\"--cutoffchargebonddipole\", type=float, required=True, help=\"cutoffchargebonddipole distance in Angstroms\")",
+        "detail": "Test03.2.01make_simulation",
+        "documentation": {}
+    },
+    {
+        "label": "mof",
+        "kind": 5,
+        "importPath": "Test03.2.02make_multiple_simulations",
+        "description": "Test03.2.02make_multiple_simulations",
+        "peekOfCode": "mof = \"\"\npressure = \"1\"\ntemp = \"293.15\"\ngas = \"O2\"\nbase_input = \"00base_template.input\"\nCUTOFFVDW = \"14.0\"\nCUTOFFCHARGECHARGE = \"14.0\"\nCUTOFFCHARGEBONDDIPOLE = \"14.0\"\nCUTOFFBONDDIPOLEBONDDIPOLE = \"14.0\"\nNumberOfCycles = \"20000\"",
+        "detail": "Test03.2.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "pressure",
+        "kind": 5,
+        "importPath": "Test03.2.02make_multiple_simulations",
+        "description": "Test03.2.02make_multiple_simulations",
+        "peekOfCode": "pressure = \"1\"\ntemp = \"293.15\"\ngas = \"O2\"\nbase_input = \"00base_template.input\"\nCUTOFFVDW = \"14.0\"\nCUTOFFCHARGECHARGE = \"14.0\"\nCUTOFFCHARGEBONDDIPOLE = \"14.0\"\nCUTOFFBONDDIPOLEBONDDIPOLE = \"14.0\"\nNumberOfCycles = \"20000\"\nNumberOfInitializationCycles = \"10000\"",
+        "detail": "Test03.2.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "temp",
+        "kind": 5,
+        "importPath": "Test03.2.02make_multiple_simulations",
+        "description": "Test03.2.02make_multiple_simulations",
+        "peekOfCode": "temp = \"293.15\"\ngas = \"O2\"\nbase_input = \"00base_template.input\"\nCUTOFFVDW = \"14.0\"\nCUTOFFCHARGECHARGE = \"14.0\"\nCUTOFFCHARGEBONDDIPOLE = \"14.0\"\nCUTOFFBONDDIPOLEBONDDIPOLE = \"14.0\"\nNumberOfCycles = \"20000\"\nNumberOfInitializationCycles = \"10000\"\nPrintEvery = \"5000\"",
+        "detail": "Test03.2.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "gas",
+        "kind": 5,
+        "importPath": "Test03.2.02make_multiple_simulations",
+        "description": "Test03.2.02make_multiple_simulations",
+        "peekOfCode": "gas = \"O2\"\nbase_input = \"00base_template.input\"\nCUTOFFVDW = \"14.0\"\nCUTOFFCHARGECHARGE = \"14.0\"\nCUTOFFCHARGEBONDDIPOLE = \"14.0\"\nCUTOFFBONDDIPOLEBONDDIPOLE = \"14.0\"\nNumberOfCycles = \"20000\"\nNumberOfInitializationCycles = \"10000\"\nPrintEvery = \"5000\"\ncif_list_path = \"04cif_list.txt\"",
+        "detail": "Test03.2.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "base_input",
+        "kind": 5,
+        "importPath": "Test03.2.02make_multiple_simulations",
+        "description": "Test03.2.02make_multiple_simulations",
+        "peekOfCode": "base_input = \"00base_template.input\"\nCUTOFFVDW = \"14.0\"\nCUTOFFCHARGECHARGE = \"14.0\"\nCUTOFFCHARGEBONDDIPOLE = \"14.0\"\nCUTOFFBONDDIPOLEBONDDIPOLE = \"14.0\"\nNumberOfCycles = \"20000\"\nNumberOfInitializationCycles = \"10000\"\nPrintEvery = \"5000\"\ncif_list_path = \"04cif_list.txt\"\nwith open(cif_list_path, \"r\") as file:",
+        "detail": "Test03.2.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "CUTOFFVDW",
+        "kind": 5,
+        "importPath": "Test03.2.02make_multiple_simulations",
+        "description": "Test03.2.02make_multiple_simulations",
+        "peekOfCode": "CUTOFFVDW = \"14.0\"\nCUTOFFCHARGECHARGE = \"14.0\"\nCUTOFFCHARGEBONDDIPOLE = \"14.0\"\nCUTOFFBONDDIPOLEBONDDIPOLE = \"14.0\"\nNumberOfCycles = \"20000\"\nNumberOfInitializationCycles = \"10000\"\nPrintEvery = \"5000\"\ncif_list_path = \"04cif_list.txt\"\nwith open(cif_list_path, \"r\") as file:\n    cif_list = [line.strip() for line in file if line.strip()]",
+        "detail": "Test03.2.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "CUTOFFCHARGECHARGE",
+        "kind": 5,
+        "importPath": "Test03.2.02make_multiple_simulations",
+        "description": "Test03.2.02make_multiple_simulations",
+        "peekOfCode": "CUTOFFCHARGECHARGE = \"14.0\"\nCUTOFFCHARGEBONDDIPOLE = \"14.0\"\nCUTOFFBONDDIPOLEBONDDIPOLE = \"14.0\"\nNumberOfCycles = \"20000\"\nNumberOfInitializationCycles = \"10000\"\nPrintEvery = \"5000\"\ncif_list_path = \"04cif_list.txt\"\nwith open(cif_list_path, \"r\") as file:\n    cif_list = [line.strip() for line in file if line.strip()]\n    # Execute the simulation script for each CIF",
+        "detail": "Test03.2.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "CUTOFFCHARGEBONDDIPOLE",
+        "kind": 5,
+        "importPath": "Test03.2.02make_multiple_simulations",
+        "description": "Test03.2.02make_multiple_simulations",
+        "peekOfCode": "CUTOFFCHARGEBONDDIPOLE = \"14.0\"\nCUTOFFBONDDIPOLEBONDDIPOLE = \"14.0\"\nNumberOfCycles = \"20000\"\nNumberOfInitializationCycles = \"10000\"\nPrintEvery = \"5000\"\ncif_list_path = \"04cif_list.txt\"\nwith open(cif_list_path, \"r\") as file:\n    cif_list = [line.strip() for line in file if line.strip()]\n    # Execute the simulation script for each CIF\n    for mof in cif_list:",
+        "detail": "Test03.2.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "CUTOFFBONDDIPOLEBONDDIPOLE",
+        "kind": 5,
+        "importPath": "Test03.2.02make_multiple_simulations",
+        "description": "Test03.2.02make_multiple_simulations",
+        "peekOfCode": "CUTOFFBONDDIPOLEBONDDIPOLE = \"14.0\"\nNumberOfCycles = \"20000\"\nNumberOfInitializationCycles = \"10000\"\nPrintEvery = \"5000\"\ncif_list_path = \"04cif_list.txt\"\nwith open(cif_list_path, \"r\") as file:\n    cif_list = [line.strip() for line in file if line.strip()]\n    # Execute the simulation script for each CIF\n    for mof in cif_list:\n        print(mof)",
+        "detail": "Test03.2.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "NumberOfCycles",
+        "kind": 5,
+        "importPath": "Test03.2.02make_multiple_simulations",
+        "description": "Test03.2.02make_multiple_simulations",
+        "peekOfCode": "NumberOfCycles = \"20000\"\nNumberOfInitializationCycles = \"10000\"\nPrintEvery = \"5000\"\ncif_list_path = \"04cif_list.txt\"\nwith open(cif_list_path, \"r\") as file:\n    cif_list = [line.strip() for line in file if line.strip()]\n    # Execute the simulation script for each CIF\n    for mof in cif_list:\n        print(mof)\n        try:",
+        "detail": "Test03.2.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "NumberOfInitializationCycles",
+        "kind": 5,
+        "importPath": "Test03.2.02make_multiple_simulations",
+        "description": "Test03.2.02make_multiple_simulations",
+        "peekOfCode": "NumberOfInitializationCycles = \"10000\"\nPrintEvery = \"5000\"\ncif_list_path = \"04cif_list.txt\"\nwith open(cif_list_path, \"r\") as file:\n    cif_list = [line.strip() for line in file if line.strip()]\n    # Execute the simulation script for each CIF\n    for mof in cif_list:\n        print(mof)\n        try:\n            print(f\"Executing simulation for CIF: {mof}\")",
+        "detail": "Test03.2.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "PrintEvery",
+        "kind": 5,
+        "importPath": "Test03.2.02make_multiple_simulations",
+        "description": "Test03.2.02make_multiple_simulations",
+        "peekOfCode": "PrintEvery = \"5000\"\ncif_list_path = \"04cif_list.txt\"\nwith open(cif_list_path, \"r\") as file:\n    cif_list = [line.strip() for line in file if line.strip()]\n    # Execute the simulation script for each CIF\n    for mof in cif_list:\n        print(mof)\n        try:\n            print(f\"Executing simulation for CIF: {mof}\")\n            subprocess.run([\"python\", \"01make_simulation.py\",",
+        "detail": "Test03.2.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "cif_list_path",
+        "kind": 5,
+        "importPath": "Test03.2.02make_multiple_simulations",
+        "description": "Test03.2.02make_multiple_simulations",
+        "peekOfCode": "cif_list_path = \"04cif_list.txt\"\nwith open(cif_list_path, \"r\") as file:\n    cif_list = [line.strip() for line in file if line.strip()]\n    # Execute the simulation script for each CIF\n    for mof in cif_list:\n        print(mof)\n        try:\n            print(f\"Executing simulation for CIF: {mof}\")\n            subprocess.run([\"python\", \"01make_simulation.py\",\n                            \"--mof\", mof,",
+        "detail": "Test03.2.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "run_simulation",
+        "kind": 2,
+        "importPath": "Test03.2.03run_all",
+        "description": "Test03.2.03run_all",
+        "peekOfCode": "def run_simulation(sim_dir, raspa_dir):\n    try:\n        print(f\"Running simulation in {sim_dir}...\")\n        simulation_command = f\"{raspa_dir}/bin/simulate simulation.input\"\n        subprocess.run(simulation_command, shell=True, check=True, cwd=sim_dir)  # 해당 디렉토리에서 실행\n        print(f\"Simulation completed in {sim_dir}.\")\n    except subprocess.CalledProcessError as e:\n        print(f\"Error occurred in {sim_dir}: {e}\")\ndef main():\n    # 명령줄 인자 파서 설정",
+        "detail": "Test03.2.03run_all",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "Test03.2.03run_all",
+        "description": "Test03.2.03run_all",
+        "peekOfCode": "def main():\n    # 명령줄 인자 파서 설정\n    parser = argparse.ArgumentParser(description=\"Run simulations in parallel across directories.\")\n    parser.add_argument(\"--num_cpus\", type=int, default=10, help=\"Number of CPUs to use for parallel processing (-1 for all available CPUs).\")\n    RASPA_DIR = os.getenv(\"RASPA_DIR\")\n    if not RASPA_DIR:\n        raise EnvironmentError(\"RASPA_DIR 환경 변수가 설정되지 않았습니다.\")\n    args = parser.parse_args()\n    # 현재 디렉토리의 서브디렉토리 가져오기\n    sim_dirs = [d for d in os.listdir('.') if os.path.isdir(d)]",
+        "detail": "Test03.2.03run_all",
+        "documentation": {}
+    },
+    {
+        "label": "process_for_path",
+        "kind": 2,
+        "importPath": "Test03.2.05crop_simulations",
+        "description": "Test03.2.05crop_simulations",
+        "peekOfCode": "def process_for_path(path):\n    print(path)\n    sim_name = path.split(\"/Output/System_0\")[0]\n    sim_splited = sim_name.split(\"_\")\n    cutoff = sim_splited[-1]\n    pressure = float(sim_splited[-2].split(\"bar\")[0])\n    temp = float(sim_splited[-3].split(\"K\")[0])\n    gas =  sim_splited[-4]\n    mof = \"_\".join(sim_splited[:-4])\n    dic = {",
+        "detail": "Test03.2.05crop_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "copysim",
+        "kind": 2,
+        "importPath": "Test03.2.pyrascont",
+        "description": "Test03.2.pyrascont",
+        "peekOfCode": "def copysim(dir_orig, dir_prefix, N_copy):\n    # dir_org: original directory\n    # dir_prefix: prefix for copied directories\n    # N_copy: number of copies\n    dir_pre = dir_prefix\n    #basepath = os.path.dirname(os.path.abspath(__file__))\n    basepath = os.getcwd()\n    dirlist_copied = []\n    for ii in range(N_copy):\n        dirnam_tmp = dir_pre + '{0:03d}'.format(ii)",
+        "detail": "Test03.2.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "editsim",
+        "kind": 2,
+        "importPath": "Test03.2.pyrascont",
+        "description": "Test03.2.pyrascont",
+        "peekOfCode": "def editsim(targ_dir, P_targ, T_targ, Sorbent, UnitCells, PrintResult=False):\n    basepath = os.getcwd()\n    os.chdir(targ_dir)\n    f = open('simulation.input','r')\n    f_cont = f.readlines()\n    f.close()\n    n_extP = len('ExternalPressure')\n    n_extT = len('ExternalTemperature') \n    n_sorb = len('FrameworkName')\n    n_unit = len('UnitCells')",
+        "detail": "Test03.2.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "runsim",
+        "kind": 2,
+        "importPath": "Test03.2.pyrascont",
+        "description": "Test03.2.pyrascont",
+        "peekOfCode": "def runsim(targ_dir):\n    basepath = os.getcwd()\n    os.chdir(targ_dir)\n    os.system('nohup sh run simulation.input &')\n    os.chdir(basepath)\n# %% Find the simulation directories based on its prefix\ndef findsimdir(targ_prefix):\n    dir_list = os.listdir()\n    n_pre = len(targ_prefix)\n    targ_dir_list = []",
+        "detail": "Test03.2.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "findsimdir",
+        "kind": 2,
+        "importPath": "Test03.2.pyrascont",
+        "description": "Test03.2.pyrascont",
+        "peekOfCode": "def findsimdir(targ_prefix):\n    dir_list = os.listdir()\n    n_pre = len(targ_prefix)\n    targ_dir_list = []\n    for ff in dir_list:\n        if ff[:n_pre] == targ_prefix:\n            targ_dir_list.append(ff)\n    targ_dir_list.sort()\n    return targ_dir_list\n# %% Remove simulation directories based on its prefix",
+        "detail": "Test03.2.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "removesim",
+        "kind": 2,
+        "importPath": "Test03.2.pyrascont",
+        "description": "Test03.2.pyrascont",
+        "peekOfCode": "def removesim(targ_prefix):\n    n_prefix = len(targ_prefix)\n    f_list = os.listdir()\n    f_list_order = np.sort(f_list)\n    for ff in f_list_order:\n        if len(ff) < n_prefix:\n            continue\n        if os.path.isfile(ff):\n            continue\n        if ff[:n_prefix] == targ_prefix:",
+        "detail": "Test03.2.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "cpucheck",
+        "kind": 2,
+        "importPath": "Test03.2.pyrascont",
+        "description": "Test03.2.pyrascont",
+        "peekOfCode": "def cpucheck():\n    #load1, load5, load15 = psutil.getloadavg() \n    #cpu_usage_percent = (load15/os.cpu_count()) * 100 \n    cpu_use_list = []\n    for ii in range(4):\n        cpu_use_test = psutil.cpu_percent(0.5)\n        cpu_use_list.append(cpu_use_test)\n    arg_min = np.argmin(cpu_use_list)\n    cpu_dum = cpu_use_list.pop(arg_min)\n    cpu_perc_average = np.mean(cpu_dum)",
+        "detail": "Test03.2.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "cropsim",
+        "kind": 2,
+        "importPath": "Test03.2.pyrascont",
+        "description": "Test03.2.pyrascont",
+        "peekOfCode": "def cropsim(targ_dir):\n    dir_targ_nam = targ_dir\n    basepath = os.getcwd()\n    os.chdir(basepath)\n    os.chdir(dir_targ_nam)\n    os.chdir('Output/System_0')\n    f_nam_list = os.listdir()\n    #print(f_nam_list)\n    prop_targ = '\\tAverage loading absolute [mol/kg frame'\n    n_prop_str = len(prop_targ)",
+        "detail": "Test03.2.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "cif2Ucell",
+        "kind": 2,
+        "importPath": "Test03.2.pyrascont",
+        "description": "Test03.2.pyrascont",
+        "peekOfCode": "def cif2Ucell(cif, cutoff, Display = False):\n    deg2rad=pi/180.\n    f_tmp = open(cif + '.cif')\n    f_cont = f_tmp.readlines()\n    f_tmp.close()\n    n_a = len('_cell_length_a')\n    n_b = len('_cell_length_b')\n    n_c = len('_cell_length_c')\n    n_alp = len('_cell_angle_alpha')\n    n_bet = len('_cell_angle_beta')",
+        "detail": "Test03.2.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "killall",
+        "kind": 2,
+        "importPath": "Test03.2.pyrascont",
+        "description": "Test03.2.pyrascont",
+        "peekOfCode": "def killall():\n    cc = 0\n    for proc in psutil.process_iter():\n        #print(proc.name())\n        #print(proc)\n        if proc.name() == 'simulate':\n            cc =cc + 1\n            proc.kill()\n            print(proc.name(), '#', cc,': ', proc.pid, ' is killed !') \n'''",
+        "detail": "Test03.2.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "pi",
+        "kind": 5,
+        "importPath": "Test03.2.pyrascont",
+        "description": "Test03.2.pyrascont",
+        "peekOfCode": "pi = np.pi\n#targ_dir = 'sim_copy0'\n#basepath = os.path.abspath(os.path.dirname(__file__))\n#P_targ = 500000\n#T_targ = 323\n# %% Function for copy simulation directories\ndef copysim(dir_orig, dir_prefix, N_copy):\n    # dir_org: original directory\n    # dir_prefix: prefix for copied directories\n    # N_copy: number of copies",
+        "detail": "Test03.2.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "#targ_dir",
+        "kind": 5,
+        "importPath": "Test03.2.pyrascont",
+        "description": "Test03.2.pyrascont",
+        "peekOfCode": "#targ_dir = 'sim_copy0'\n#basepath = os.path.abspath(os.path.dirname(__file__))\n#P_targ = 500000\n#T_targ = 323\n# %% Function for copy simulation directories\ndef copysim(dir_orig, dir_prefix, N_copy):\n    # dir_org: original directory\n    # dir_prefix: prefix for copied directories\n    # N_copy: number of copies\n    dir_pre = dir_prefix",
+        "detail": "Test03.2.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "#basepath",
+        "kind": 5,
+        "importPath": "Test03.2.pyrascont",
+        "description": "Test03.2.pyrascont",
+        "peekOfCode": "#basepath = os.path.abspath(os.path.dirname(__file__))\n#P_targ = 500000\n#T_targ = 323\n# %% Function for copy simulation directories\ndef copysim(dir_orig, dir_prefix, N_copy):\n    # dir_org: original directory\n    # dir_prefix: prefix for copied directories\n    # N_copy: number of copies\n    dir_pre = dir_prefix\n    #basepath = os.path.dirname(os.path.abspath(__file__))",
+        "detail": "Test03.2.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "#P_targ",
+        "kind": 5,
+        "importPath": "Test03.2.pyrascont",
+        "description": "Test03.2.pyrascont",
+        "peekOfCode": "#P_targ = 500000\n#T_targ = 323\n# %% Function for copy simulation directories\ndef copysim(dir_orig, dir_prefix, N_copy):\n    # dir_org: original directory\n    # dir_prefix: prefix for copied directories\n    # N_copy: number of copies\n    dir_pre = dir_prefix\n    #basepath = os.path.dirname(os.path.abspath(__file__))\n    basepath = os.getcwd()",
+        "detail": "Test03.2.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "#T_targ",
+        "kind": 5,
+        "importPath": "Test03.2.pyrascont",
+        "description": "Test03.2.pyrascont",
+        "peekOfCode": "#T_targ = 323\n# %% Function for copy simulation directories\ndef copysim(dir_orig, dir_prefix, N_copy):\n    # dir_org: original directory\n    # dir_prefix: prefix for copied directories\n    # N_copy: number of copies\n    dir_pre = dir_prefix\n    #basepath = os.path.dirname(os.path.abspath(__file__))\n    basepath = os.getcwd()\n    dirlist_copied = []",
+        "detail": "Test03.2.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "replace_placeholders",
+        "kind": 2,
+        "importPath": "Test03.3 (Test01과동일_재현성검증).01make_simulation",
+        "description": "Test03.3 (Test01과동일_재현성검증).01make_simulation",
+        "peekOfCode": "def replace_placeholders(template, replacements):\n    for key, value in replacements.items():\n        template = template.replace(f\"{{{key}}}\", str(value))\n    return template\ndef process_mof_simulations(mof, pressure, temp, gas, base_input,  cutoffvdw, cutoffchargecharge, cutoffchargebonddipole, cutoffbonddipolebonddipole, NumberOfCycles, NumberOfInitializationCycles, PrintEvery):\n    # 선택한 모프의 UNITCELL계산을 위한 코드\n    raspa_dir = os.environ.get(\"RASPA_DIR\")\n    if not raspa_dir:\n        raise EnvironmentError(\"RASPA_DIR 환경 변수가 설정되어 있지 않습니다.\")\n    # CIF 파일 경로 설정",
+        "detail": "Test03.3 (Test01과동일_재현성검증).01make_simulation",
+        "documentation": {}
+    },
+    {
+        "label": "process_mof_simulations",
+        "kind": 2,
+        "importPath": "Test03.3 (Test01과동일_재현성검증).01make_simulation",
+        "description": "Test03.3 (Test01과동일_재현성검증).01make_simulation",
+        "peekOfCode": "def process_mof_simulations(mof, pressure, temp, gas, base_input,  cutoffvdw, cutoffchargecharge, cutoffchargebonddipole, cutoffbonddipolebonddipole, NumberOfCycles, NumberOfInitializationCycles, PrintEvery):\n    # 선택한 모프의 UNITCELL계산을 위한 코드\n    raspa_dir = os.environ.get(\"RASPA_DIR\")\n    if not raspa_dir:\n        raise EnvironmentError(\"RASPA_DIR 환경 변수가 설정되어 있지 않습니다.\")\n    # CIF 파일 경로 설정\n    cifs_path = os.path.join(raspa_dir, \"share\", \"raspa\", \"structures\", \"cif\")\n    res_ucell = pyrascont.cif2Ucell(os.path.join(cifs_path, mof), cutoffvdw, Display=True)\n    unitcell_str = ' '.join(map(str, res_ucell))\n    ## BASETEMPLATE의 값을 치환하는 코드",
+        "detail": "Test03.3 (Test01과동일_재현성검증).01make_simulation",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "Test03.3 (Test01과동일_재현성검증).01make_simulation",
+        "description": "Test03.3 (Test01과동일_재현성검증).01make_simulation",
+        "peekOfCode": "def main():\n    parser = argparse.ArgumentParser(description=\"Process MOF simulations.\")\n    parser.add_argument(\"--mof\", type=str, required=True, help=\"MOF file name (without extension)\")\n    parser.add_argument(\"--pressure\", type=float, required=True, help=\"Pressure in bar\")\n    parser.add_argument(\"--temp\", type=float, required=True, help=\"Temperature in Kelvin\")\n    parser.add_argument(\"--gas\", type=str, required=True, help=\"Gas type\")\n    parser.add_argument(\"--base_input\", type=str, required=True, help=\"Base input template for simulation\")\n    parser.add_argument(\"--cutoffvdw\", type=float, required=True, help=\"cutoffvdw distance in Angstroms\")\n    parser.add_argument(\"--cutoffchargecharge\", type=float, required=True, help=\"cutoffchargecharge distance in Angstroms\")\n    parser.add_argument(\"--cutoffchargebonddipole\", type=float, required=True, help=\"cutoffchargebonddipole distance in Angstroms\")",
+        "detail": "Test03.3 (Test01과동일_재현성검증).01make_simulation",
+        "documentation": {}
+    },
+    {
+        "label": "mof",
+        "kind": 5,
+        "importPath": "Test03.3 (Test01과동일_재현성검증).02make_multiple_simulations",
+        "description": "Test03.3 (Test01과동일_재현성검증).02make_multiple_simulations",
+        "peekOfCode": "mof = \"\"\npressure = \"1\"\ntemp = \"293.15\"\ngas = \"O2\"\nbase_input = \"00base_template.input\"\nCUTOFFVDW = \"14.0\"\nCUTOFFCHARGECHARGE = \"14.0\"\nCUTOFFCHARGEBONDDIPOLE = \"14.0\"\nCUTOFFBONDDIPOLEBONDDIPOLE = \"14.0\"\nNumberOfCycles = \"20000\"",
+        "detail": "Test03.3 (Test01과동일_재현성검증).02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "pressure",
+        "kind": 5,
+        "importPath": "Test03.3 (Test01과동일_재현성검증).02make_multiple_simulations",
+        "description": "Test03.3 (Test01과동일_재현성검증).02make_multiple_simulations",
+        "peekOfCode": "pressure = \"1\"\ntemp = \"293.15\"\ngas = \"O2\"\nbase_input = \"00base_template.input\"\nCUTOFFVDW = \"14.0\"\nCUTOFFCHARGECHARGE = \"14.0\"\nCUTOFFCHARGEBONDDIPOLE = \"14.0\"\nCUTOFFBONDDIPOLEBONDDIPOLE = \"14.0\"\nNumberOfCycles = \"20000\"\nNumberOfInitializationCycles = \"10000\"",
+        "detail": "Test03.3 (Test01과동일_재현성검증).02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "temp",
+        "kind": 5,
+        "importPath": "Test03.3 (Test01과동일_재현성검증).02make_multiple_simulations",
+        "description": "Test03.3 (Test01과동일_재현성검증).02make_multiple_simulations",
+        "peekOfCode": "temp = \"293.15\"\ngas = \"O2\"\nbase_input = \"00base_template.input\"\nCUTOFFVDW = \"14.0\"\nCUTOFFCHARGECHARGE = \"14.0\"\nCUTOFFCHARGEBONDDIPOLE = \"14.0\"\nCUTOFFBONDDIPOLEBONDDIPOLE = \"14.0\"\nNumberOfCycles = \"20000\"\nNumberOfInitializationCycles = \"10000\"\nPrintEvery = \"5000\"",
+        "detail": "Test03.3 (Test01과동일_재현성검증).02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "gas",
+        "kind": 5,
+        "importPath": "Test03.3 (Test01과동일_재현성검증).02make_multiple_simulations",
+        "description": "Test03.3 (Test01과동일_재현성검증).02make_multiple_simulations",
+        "peekOfCode": "gas = \"O2\"\nbase_input = \"00base_template.input\"\nCUTOFFVDW = \"14.0\"\nCUTOFFCHARGECHARGE = \"14.0\"\nCUTOFFCHARGEBONDDIPOLE = \"14.0\"\nCUTOFFBONDDIPOLEBONDDIPOLE = \"14.0\"\nNumberOfCycles = \"20000\"\nNumberOfInitializationCycles = \"10000\"\nPrintEvery = \"5000\"\ncif_list_path = \"04cif_list.txt\"",
+        "detail": "Test03.3 (Test01과동일_재현성검증).02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "base_input",
+        "kind": 5,
+        "importPath": "Test03.3 (Test01과동일_재현성검증).02make_multiple_simulations",
+        "description": "Test03.3 (Test01과동일_재현성검증).02make_multiple_simulations",
+        "peekOfCode": "base_input = \"00base_template.input\"\nCUTOFFVDW = \"14.0\"\nCUTOFFCHARGECHARGE = \"14.0\"\nCUTOFFCHARGEBONDDIPOLE = \"14.0\"\nCUTOFFBONDDIPOLEBONDDIPOLE = \"14.0\"\nNumberOfCycles = \"20000\"\nNumberOfInitializationCycles = \"10000\"\nPrintEvery = \"5000\"\ncif_list_path = \"04cif_list.txt\"\nwith open(cif_list_path, \"r\") as file:",
+        "detail": "Test03.3 (Test01과동일_재현성검증).02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "CUTOFFVDW",
+        "kind": 5,
+        "importPath": "Test03.3 (Test01과동일_재현성검증).02make_multiple_simulations",
+        "description": "Test03.3 (Test01과동일_재현성검증).02make_multiple_simulations",
+        "peekOfCode": "CUTOFFVDW = \"14.0\"\nCUTOFFCHARGECHARGE = \"14.0\"\nCUTOFFCHARGEBONDDIPOLE = \"14.0\"\nCUTOFFBONDDIPOLEBONDDIPOLE = \"14.0\"\nNumberOfCycles = \"20000\"\nNumberOfInitializationCycles = \"10000\"\nPrintEvery = \"5000\"\ncif_list_path = \"04cif_list.txt\"\nwith open(cif_list_path, \"r\") as file:\n    cif_list = [line.strip() for line in file if line.strip()]",
+        "detail": "Test03.3 (Test01과동일_재현성검증).02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "CUTOFFCHARGECHARGE",
+        "kind": 5,
+        "importPath": "Test03.3 (Test01과동일_재현성검증).02make_multiple_simulations",
+        "description": "Test03.3 (Test01과동일_재현성검증).02make_multiple_simulations",
+        "peekOfCode": "CUTOFFCHARGECHARGE = \"14.0\"\nCUTOFFCHARGEBONDDIPOLE = \"14.0\"\nCUTOFFBONDDIPOLEBONDDIPOLE = \"14.0\"\nNumberOfCycles = \"20000\"\nNumberOfInitializationCycles = \"10000\"\nPrintEvery = \"5000\"\ncif_list_path = \"04cif_list.txt\"\nwith open(cif_list_path, \"r\") as file:\n    cif_list = [line.strip() for line in file if line.strip()]\n    # Execute the simulation script for each CIF",
+        "detail": "Test03.3 (Test01과동일_재현성검증).02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "CUTOFFCHARGEBONDDIPOLE",
+        "kind": 5,
+        "importPath": "Test03.3 (Test01과동일_재현성검증).02make_multiple_simulations",
+        "description": "Test03.3 (Test01과동일_재현성검증).02make_multiple_simulations",
+        "peekOfCode": "CUTOFFCHARGEBONDDIPOLE = \"14.0\"\nCUTOFFBONDDIPOLEBONDDIPOLE = \"14.0\"\nNumberOfCycles = \"20000\"\nNumberOfInitializationCycles = \"10000\"\nPrintEvery = \"5000\"\ncif_list_path = \"04cif_list.txt\"\nwith open(cif_list_path, \"r\") as file:\n    cif_list = [line.strip() for line in file if line.strip()]\n    # Execute the simulation script for each CIF\n    for mof in cif_list:",
+        "detail": "Test03.3 (Test01과동일_재현성검증).02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "CUTOFFBONDDIPOLEBONDDIPOLE",
+        "kind": 5,
+        "importPath": "Test03.3 (Test01과동일_재현성검증).02make_multiple_simulations",
+        "description": "Test03.3 (Test01과동일_재현성검증).02make_multiple_simulations",
+        "peekOfCode": "CUTOFFBONDDIPOLEBONDDIPOLE = \"14.0\"\nNumberOfCycles = \"20000\"\nNumberOfInitializationCycles = \"10000\"\nPrintEvery = \"5000\"\ncif_list_path = \"04cif_list.txt\"\nwith open(cif_list_path, \"r\") as file:\n    cif_list = [line.strip() for line in file if line.strip()]\n    # Execute the simulation script for each CIF\n    for mof in cif_list:\n        print(mof)",
+        "detail": "Test03.3 (Test01과동일_재현성검증).02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "NumberOfCycles",
+        "kind": 5,
+        "importPath": "Test03.3 (Test01과동일_재현성검증).02make_multiple_simulations",
+        "description": "Test03.3 (Test01과동일_재현성검증).02make_multiple_simulations",
+        "peekOfCode": "NumberOfCycles = \"20000\"\nNumberOfInitializationCycles = \"10000\"\nPrintEvery = \"5000\"\ncif_list_path = \"04cif_list.txt\"\nwith open(cif_list_path, \"r\") as file:\n    cif_list = [line.strip() for line in file if line.strip()]\n    # Execute the simulation script for each CIF\n    for mof in cif_list:\n        print(mof)\n        try:",
+        "detail": "Test03.3 (Test01과동일_재현성검증).02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "NumberOfInitializationCycles",
+        "kind": 5,
+        "importPath": "Test03.3 (Test01과동일_재현성검증).02make_multiple_simulations",
+        "description": "Test03.3 (Test01과동일_재현성검증).02make_multiple_simulations",
+        "peekOfCode": "NumberOfInitializationCycles = \"10000\"\nPrintEvery = \"5000\"\ncif_list_path = \"04cif_list.txt\"\nwith open(cif_list_path, \"r\") as file:\n    cif_list = [line.strip() for line in file if line.strip()]\n    # Execute the simulation script for each CIF\n    for mof in cif_list:\n        print(mof)\n        try:\n            print(f\"Executing simulation for CIF: {mof}\")",
+        "detail": "Test03.3 (Test01과동일_재현성검증).02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "PrintEvery",
+        "kind": 5,
+        "importPath": "Test03.3 (Test01과동일_재현성검증).02make_multiple_simulations",
+        "description": "Test03.3 (Test01과동일_재현성검증).02make_multiple_simulations",
+        "peekOfCode": "PrintEvery = \"5000\"\ncif_list_path = \"04cif_list.txt\"\nwith open(cif_list_path, \"r\") as file:\n    cif_list = [line.strip() for line in file if line.strip()]\n    # Execute the simulation script for each CIF\n    for mof in cif_list:\n        print(mof)\n        try:\n            print(f\"Executing simulation for CIF: {mof}\")\n            subprocess.run([\"python\", \"01make_simulation.py\",",
+        "detail": "Test03.3 (Test01과동일_재현성검증).02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "cif_list_path",
+        "kind": 5,
+        "importPath": "Test03.3 (Test01과동일_재현성검증).02make_multiple_simulations",
+        "description": "Test03.3 (Test01과동일_재현성검증).02make_multiple_simulations",
+        "peekOfCode": "cif_list_path = \"04cif_list.txt\"\nwith open(cif_list_path, \"r\") as file:\n    cif_list = [line.strip() for line in file if line.strip()]\n    # Execute the simulation script for each CIF\n    for mof in cif_list:\n        print(mof)\n        try:\n            print(f\"Executing simulation for CIF: {mof}\")\n            subprocess.run([\"python\", \"01make_simulation.py\",\n                            \"--mof\", mof,",
+        "detail": "Test03.3 (Test01과동일_재현성검증).02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "run_simulation",
+        "kind": 2,
+        "importPath": "Test03.3 (Test01과동일_재현성검증).03run_all",
+        "description": "Test03.3 (Test01과동일_재현성검증).03run_all",
+        "peekOfCode": "def run_simulation(sim_dir, raspa_dir):\n    try:\n        print(f\"Running simulation in {sim_dir}...\")\n        simulation_command = f\"{raspa_dir}/bin/simulate simulation.input\"\n        subprocess.run(simulation_command, shell=True, check=True, cwd=sim_dir)  # 해당 디렉토리에서 실행\n        print(f\"Simulation completed in {sim_dir}.\")\n    except subprocess.CalledProcessError as e:\n        print(f\"Error occurred in {sim_dir}: {e}\")\ndef main():\n    # 명령줄 인자 파서 설정",
+        "detail": "Test03.3 (Test01과동일_재현성검증).03run_all",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "Test03.3 (Test01과동일_재현성검증).03run_all",
+        "description": "Test03.3 (Test01과동일_재현성검증).03run_all",
+        "peekOfCode": "def main():\n    # 명령줄 인자 파서 설정\n    parser = argparse.ArgumentParser(description=\"Run simulations in parallel across directories.\")\n    parser.add_argument(\"--num_cpus\", type=int, default=10, help=\"Number of CPUs to use for parallel processing (-1 for all available CPUs).\")\n    RASPA_DIR = os.getenv(\"RASPA_DIR\")\n    if not RASPA_DIR:\n        raise EnvironmentError(\"RASPA_DIR 환경 변수가 설정되지 않았습니다.\")\n    args = parser.parse_args()\n    # 현재 디렉토리의 서브디렉토리 가져오기\n    sim_dirs = [d for d in os.listdir('.') if os.path.isdir(d)]",
+        "detail": "Test03.3 (Test01과동일_재현성검증).03run_all",
+        "documentation": {}
+    },
+    {
+        "label": "process_for_path",
+        "kind": 2,
+        "importPath": "Test03.3 (Test01과동일_재현성검증).05crop_simulations",
+        "description": "Test03.3 (Test01과동일_재현성검증).05crop_simulations",
+        "peekOfCode": "def process_for_path(path):\n    print(path)\n    sim_name = path.split(\"/Output/System_0\")[0]\n    sim_splited = sim_name.split(\"_\")\n    cutoff = sim_splited[-1]\n    pressure = float(sim_splited[-2].split(\"bar\")[0])\n    temp = float(sim_splited[-3].split(\"K\")[0])\n    gas =  sim_splited[-4]\n    mof = \"_\".join(sim_splited[:-4])\n    dic = {",
+        "detail": "Test03.3 (Test01과동일_재현성검증).05crop_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "copysim",
+        "kind": 2,
+        "importPath": "Test03.3 (Test01과동일_재현성검증).pyrascont",
+        "description": "Test03.3 (Test01과동일_재현성검증).pyrascont",
+        "peekOfCode": "def copysim(dir_orig, dir_prefix, N_copy):\n    # dir_org: original directory\n    # dir_prefix: prefix for copied directories\n    # N_copy: number of copies\n    dir_pre = dir_prefix\n    #basepath = os.path.dirname(os.path.abspath(__file__))\n    basepath = os.getcwd()\n    dirlist_copied = []\n    for ii in range(N_copy):\n        dirnam_tmp = dir_pre + '{0:03d}'.format(ii)",
+        "detail": "Test03.3 (Test01과동일_재현성검증).pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "editsim",
+        "kind": 2,
+        "importPath": "Test03.3 (Test01과동일_재현성검증).pyrascont",
+        "description": "Test03.3 (Test01과동일_재현성검증).pyrascont",
+        "peekOfCode": "def editsim(targ_dir, P_targ, T_targ, Sorbent, UnitCells, PrintResult=False):\n    basepath = os.getcwd()\n    os.chdir(targ_dir)\n    f = open('simulation.input','r')\n    f_cont = f.readlines()\n    f.close()\n    n_extP = len('ExternalPressure')\n    n_extT = len('ExternalTemperature') \n    n_sorb = len('FrameworkName')\n    n_unit = len('UnitCells')",
+        "detail": "Test03.3 (Test01과동일_재현성검증).pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "runsim",
+        "kind": 2,
+        "importPath": "Test03.3 (Test01과동일_재현성검증).pyrascont",
+        "description": "Test03.3 (Test01과동일_재현성검증).pyrascont",
+        "peekOfCode": "def runsim(targ_dir):\n    basepath = os.getcwd()\n    os.chdir(targ_dir)\n    os.system('nohup sh run simulation.input &')\n    os.chdir(basepath)\n# %% Find the simulation directories based on its prefix\ndef findsimdir(targ_prefix):\n    dir_list = os.listdir()\n    n_pre = len(targ_prefix)\n    targ_dir_list = []",
+        "detail": "Test03.3 (Test01과동일_재현성검증).pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "findsimdir",
+        "kind": 2,
+        "importPath": "Test03.3 (Test01과동일_재현성검증).pyrascont",
+        "description": "Test03.3 (Test01과동일_재현성검증).pyrascont",
+        "peekOfCode": "def findsimdir(targ_prefix):\n    dir_list = os.listdir()\n    n_pre = len(targ_prefix)\n    targ_dir_list = []\n    for ff in dir_list:\n        if ff[:n_pre] == targ_prefix:\n            targ_dir_list.append(ff)\n    targ_dir_list.sort()\n    return targ_dir_list\n# %% Remove simulation directories based on its prefix",
+        "detail": "Test03.3 (Test01과동일_재현성검증).pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "removesim",
+        "kind": 2,
+        "importPath": "Test03.3 (Test01과동일_재현성검증).pyrascont",
+        "description": "Test03.3 (Test01과동일_재현성검증).pyrascont",
+        "peekOfCode": "def removesim(targ_prefix):\n    n_prefix = len(targ_prefix)\n    f_list = os.listdir()\n    f_list_order = np.sort(f_list)\n    for ff in f_list_order:\n        if len(ff) < n_prefix:\n            continue\n        if os.path.isfile(ff):\n            continue\n        if ff[:n_prefix] == targ_prefix:",
+        "detail": "Test03.3 (Test01과동일_재현성검증).pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "cpucheck",
+        "kind": 2,
+        "importPath": "Test03.3 (Test01과동일_재현성검증).pyrascont",
+        "description": "Test03.3 (Test01과동일_재현성검증).pyrascont",
+        "peekOfCode": "def cpucheck():\n    #load1, load5, load15 = psutil.getloadavg() \n    #cpu_usage_percent = (load15/os.cpu_count()) * 100 \n    cpu_use_list = []\n    for ii in range(4):\n        cpu_use_test = psutil.cpu_percent(0.5)\n        cpu_use_list.append(cpu_use_test)\n    arg_min = np.argmin(cpu_use_list)\n    cpu_dum = cpu_use_list.pop(arg_min)\n    cpu_perc_average = np.mean(cpu_dum)",
+        "detail": "Test03.3 (Test01과동일_재현성검증).pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "cropsim",
+        "kind": 2,
+        "importPath": "Test03.3 (Test01과동일_재현성검증).pyrascont",
+        "description": "Test03.3 (Test01과동일_재현성검증).pyrascont",
+        "peekOfCode": "def cropsim(targ_dir):\n    dir_targ_nam = targ_dir\n    basepath = os.getcwd()\n    os.chdir(basepath)\n    os.chdir(dir_targ_nam)\n    os.chdir('Output/System_0')\n    f_nam_list = os.listdir()\n    #print(f_nam_list)\n    prop_targ = '\\tAverage loading absolute [mol/kg frame'\n    n_prop_str = len(prop_targ)",
+        "detail": "Test03.3 (Test01과동일_재현성검증).pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "cif2Ucell",
+        "kind": 2,
+        "importPath": "Test03.3 (Test01과동일_재현성검증).pyrascont",
+        "description": "Test03.3 (Test01과동일_재현성검증).pyrascont",
+        "peekOfCode": "def cif2Ucell(cif, cutoff, Display = False):\n    deg2rad=pi/180.\n    f_tmp = open(cif + '.cif')\n    f_cont = f_tmp.readlines()\n    f_tmp.close()\n    n_a = len('_cell_length_a')\n    n_b = len('_cell_length_b')\n    n_c = len('_cell_length_c')\n    n_alp = len('_cell_angle_alpha')\n    n_bet = len('_cell_angle_beta')",
+        "detail": "Test03.3 (Test01과동일_재현성검증).pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "killall",
+        "kind": 2,
+        "importPath": "Test03.3 (Test01과동일_재현성검증).pyrascont",
+        "description": "Test03.3 (Test01과동일_재현성검증).pyrascont",
+        "peekOfCode": "def killall():\n    cc = 0\n    for proc in psutil.process_iter():\n        #print(proc.name())\n        #print(proc)\n        if proc.name() == 'simulate':\n            cc =cc + 1\n            proc.kill()\n            print(proc.name(), '#', cc,': ', proc.pid, ' is killed !') \n'''",
+        "detail": "Test03.3 (Test01과동일_재현성검증).pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "pi",
+        "kind": 5,
+        "importPath": "Test03.3 (Test01과동일_재현성검증).pyrascont",
+        "description": "Test03.3 (Test01과동일_재현성검증).pyrascont",
+        "peekOfCode": "pi = np.pi\n#targ_dir = 'sim_copy0'\n#basepath = os.path.abspath(os.path.dirname(__file__))\n#P_targ = 500000\n#T_targ = 323\n# %% Function for copy simulation directories\ndef copysim(dir_orig, dir_prefix, N_copy):\n    # dir_org: original directory\n    # dir_prefix: prefix for copied directories\n    # N_copy: number of copies",
+        "detail": "Test03.3 (Test01과동일_재현성검증).pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "#targ_dir",
+        "kind": 5,
+        "importPath": "Test03.3 (Test01과동일_재현성검증).pyrascont",
+        "description": "Test03.3 (Test01과동일_재현성검증).pyrascont",
+        "peekOfCode": "#targ_dir = 'sim_copy0'\n#basepath = os.path.abspath(os.path.dirname(__file__))\n#P_targ = 500000\n#T_targ = 323\n# %% Function for copy simulation directories\ndef copysim(dir_orig, dir_prefix, N_copy):\n    # dir_org: original directory\n    # dir_prefix: prefix for copied directories\n    # N_copy: number of copies\n    dir_pre = dir_prefix",
+        "detail": "Test03.3 (Test01과동일_재현성검증).pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "#basepath",
+        "kind": 5,
+        "importPath": "Test03.3 (Test01과동일_재현성검증).pyrascont",
+        "description": "Test03.3 (Test01과동일_재현성검증).pyrascont",
+        "peekOfCode": "#basepath = os.path.abspath(os.path.dirname(__file__))\n#P_targ = 500000\n#T_targ = 323\n# %% Function for copy simulation directories\ndef copysim(dir_orig, dir_prefix, N_copy):\n    # dir_org: original directory\n    # dir_prefix: prefix for copied directories\n    # N_copy: number of copies\n    dir_pre = dir_prefix\n    #basepath = os.path.dirname(os.path.abspath(__file__))",
+        "detail": "Test03.3 (Test01과동일_재현성검증).pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "#P_targ",
+        "kind": 5,
+        "importPath": "Test03.3 (Test01과동일_재현성검증).pyrascont",
+        "description": "Test03.3 (Test01과동일_재현성검증).pyrascont",
+        "peekOfCode": "#P_targ = 500000\n#T_targ = 323\n# %% Function for copy simulation directories\ndef copysim(dir_orig, dir_prefix, N_copy):\n    # dir_org: original directory\n    # dir_prefix: prefix for copied directories\n    # N_copy: number of copies\n    dir_pre = dir_prefix\n    #basepath = os.path.dirname(os.path.abspath(__file__))\n    basepath = os.getcwd()",
+        "detail": "Test03.3 (Test01과동일_재현성검증).pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "#T_targ",
+        "kind": 5,
+        "importPath": "Test03.3 (Test01과동일_재현성검증).pyrascont",
+        "description": "Test03.3 (Test01과동일_재현성검증).pyrascont",
+        "peekOfCode": "#T_targ = 323\n# %% Function for copy simulation directories\ndef copysim(dir_orig, dir_prefix, N_copy):\n    # dir_org: original directory\n    # dir_prefix: prefix for copied directories\n    # N_copy: number of copies\n    dir_pre = dir_prefix\n    #basepath = os.path.dirname(os.path.abspath(__file__))\n    basepath = os.getcwd()\n    dirlist_copied = []",
+        "detail": "Test03.3 (Test01과동일_재현성검증).pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "replace_placeholders",
+        "kind": 2,
+        "importPath": "Test04.01make_simulation",
+        "description": "Test04.01make_simulation",
+        "peekOfCode": "def replace_placeholders(template, replacements):\n    for key, value in replacements.items():\n        template = template.replace(f\"{{{key}}}\", str(value))\n    return template\ndef process_mof_simulations(mof, pressure, temp, gas, base_input,  cutoffvdw, cutoffchargecharge, cutoffchargebonddipole, cutoffbonddipolebonddipole, NumberOfCycles, NumberOfInitializationCycles, PrintEvery):\n    # 선택한 모프의 UNITCELL계산을 위한 코드\n    raspa_dir = os.environ.get(\"RASPA_DIR\")\n    if not raspa_dir:\n        raise EnvironmentError(\"RASPA_DIR 환경 변수가 설정되어 있지 않습니다.\")\n    # CIF 파일 경로 설정",
+        "detail": "Test04.01make_simulation",
+        "documentation": {}
+    },
+    {
+        "label": "process_mof_simulations",
+        "kind": 2,
+        "importPath": "Test04.01make_simulation",
+        "description": "Test04.01make_simulation",
+        "peekOfCode": "def process_mof_simulations(mof, pressure, temp, gas, base_input,  cutoffvdw, cutoffchargecharge, cutoffchargebonddipole, cutoffbonddipolebonddipole, NumberOfCycles, NumberOfInitializationCycles, PrintEvery):\n    # 선택한 모프의 UNITCELL계산을 위한 코드\n    raspa_dir = os.environ.get(\"RASPA_DIR\")\n    if not raspa_dir:\n        raise EnvironmentError(\"RASPA_DIR 환경 변수가 설정되어 있지 않습니다.\")\n    # CIF 파일 경로 설정\n    cifs_path = os.path.join(raspa_dir, \"share\", \"raspa\", \"structures\", \"cif\")\n    res_ucell = pyrascont.cif2Ucell(os.path.join(cifs_path, mof), cutoffvdw, Display=True)\n    unitcell_str = ' '.join(map(str, res_ucell))\n    ## BASETEMPLATE의 값을 치환하는 코드",
+        "detail": "Test04.01make_simulation",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "Test04.01make_simulation",
+        "description": "Test04.01make_simulation",
+        "peekOfCode": "def main():\n    parser = argparse.ArgumentParser(description=\"Process MOF simulations.\")\n    parser.add_argument(\"--mof\", type=str, required=True, help=\"MOF file name (without extension)\")\n    parser.add_argument(\"--pressure\", type=float, required=True, help=\"Pressure in bar\")\n    parser.add_argument(\"--temp\", type=float, required=True, help=\"Temperature in Kelvin\")\n    parser.add_argument(\"--gas\", type=str, required=True, help=\"Gas type\")\n    parser.add_argument(\"--base_input\", type=str, required=True, help=\"Base input template for simulation\")\n    parser.add_argument(\"--cutoffvdw\", type=float, required=True, help=\"cutoffvdw distance in Angstroms\")\n    parser.add_argument(\"--cutoffchargecharge\", type=float, required=True, help=\"cutoffchargecharge distance in Angstroms\")\n    parser.add_argument(\"--cutoffchargebonddipole\", type=float, required=True, help=\"cutoffchargebonddipole distance in Angstroms\")",
+        "detail": "Test04.01make_simulation",
+        "documentation": {}
+    },
+    {
+        "label": "mof",
+        "kind": 5,
+        "importPath": "Test04.02make_multiple_simulations",
+        "description": "Test04.02make_multiple_simulations",
+        "peekOfCode": "mof = \"\"\npressure = \"1\"\ntemp = \"293.15\"\ngas = \"O2\"\nbase_input = \"00base_template.input\"\nCUTOFFVDW = \"14.0\"\nCUTOFFCHARGECHARGE = \"14.0\"\nCUTOFFCHARGEBONDDIPOLE = \"14.0\"\nCUTOFFBONDDIPOLEBONDDIPOLE = \"14.0\"\nNumberOfCycles = \"20000\"",
+        "detail": "Test04.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "pressure",
+        "kind": 5,
+        "importPath": "Test04.02make_multiple_simulations",
+        "description": "Test04.02make_multiple_simulations",
+        "peekOfCode": "pressure = \"1\"\ntemp = \"293.15\"\ngas = \"O2\"\nbase_input = \"00base_template.input\"\nCUTOFFVDW = \"14.0\"\nCUTOFFCHARGECHARGE = \"14.0\"\nCUTOFFCHARGEBONDDIPOLE = \"14.0\"\nCUTOFFBONDDIPOLEBONDDIPOLE = \"14.0\"\nNumberOfCycles = \"20000\"\nNumberOfInitializationCycles = \"10000\"",
+        "detail": "Test04.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "temp",
+        "kind": 5,
+        "importPath": "Test04.02make_multiple_simulations",
+        "description": "Test04.02make_multiple_simulations",
+        "peekOfCode": "temp = \"293.15\"\ngas = \"O2\"\nbase_input = \"00base_template.input\"\nCUTOFFVDW = \"14.0\"\nCUTOFFCHARGECHARGE = \"14.0\"\nCUTOFFCHARGEBONDDIPOLE = \"14.0\"\nCUTOFFBONDDIPOLEBONDDIPOLE = \"14.0\"\nNumberOfCycles = \"20000\"\nNumberOfInitializationCycles = \"10000\"\nPrintEvery = \"5000\"",
+        "detail": "Test04.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "gas",
+        "kind": 5,
+        "importPath": "Test04.02make_multiple_simulations",
+        "description": "Test04.02make_multiple_simulations",
+        "peekOfCode": "gas = \"O2\"\nbase_input = \"00base_template.input\"\nCUTOFFVDW = \"14.0\"\nCUTOFFCHARGECHARGE = \"14.0\"\nCUTOFFCHARGEBONDDIPOLE = \"14.0\"\nCUTOFFBONDDIPOLEBONDDIPOLE = \"14.0\"\nNumberOfCycles = \"20000\"\nNumberOfInitializationCycles = \"10000\"\nPrintEvery = \"5000\"\ncif_list_path = \"04cif_list.txt\"",
+        "detail": "Test04.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "base_input",
+        "kind": 5,
+        "importPath": "Test04.02make_multiple_simulations",
+        "description": "Test04.02make_multiple_simulations",
+        "peekOfCode": "base_input = \"00base_template.input\"\nCUTOFFVDW = \"14.0\"\nCUTOFFCHARGECHARGE = \"14.0\"\nCUTOFFCHARGEBONDDIPOLE = \"14.0\"\nCUTOFFBONDDIPOLEBONDDIPOLE = \"14.0\"\nNumberOfCycles = \"20000\"\nNumberOfInitializationCycles = \"10000\"\nPrintEvery = \"5000\"\ncif_list_path = \"04cif_list.txt\"\nwith open(cif_list_path, \"r\") as file:",
+        "detail": "Test04.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "CUTOFFVDW",
+        "kind": 5,
+        "importPath": "Test04.02make_multiple_simulations",
+        "description": "Test04.02make_multiple_simulations",
+        "peekOfCode": "CUTOFFVDW = \"14.0\"\nCUTOFFCHARGECHARGE = \"14.0\"\nCUTOFFCHARGEBONDDIPOLE = \"14.0\"\nCUTOFFBONDDIPOLEBONDDIPOLE = \"14.0\"\nNumberOfCycles = \"20000\"\nNumberOfInitializationCycles = \"10000\"\nPrintEvery = \"5000\"\ncif_list_path = \"04cif_list.txt\"\nwith open(cif_list_path, \"r\") as file:\n    cif_list = [line.strip() for line in file if line.strip()]",
+        "detail": "Test04.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "CUTOFFCHARGECHARGE",
+        "kind": 5,
+        "importPath": "Test04.02make_multiple_simulations",
+        "description": "Test04.02make_multiple_simulations",
+        "peekOfCode": "CUTOFFCHARGECHARGE = \"14.0\"\nCUTOFFCHARGEBONDDIPOLE = \"14.0\"\nCUTOFFBONDDIPOLEBONDDIPOLE = \"14.0\"\nNumberOfCycles = \"20000\"\nNumberOfInitializationCycles = \"10000\"\nPrintEvery = \"5000\"\ncif_list_path = \"04cif_list.txt\"\nwith open(cif_list_path, \"r\") as file:\n    cif_list = [line.strip() for line in file if line.strip()]\n    # Execute the simulation script for each CIF",
+        "detail": "Test04.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "CUTOFFCHARGEBONDDIPOLE",
+        "kind": 5,
+        "importPath": "Test04.02make_multiple_simulations",
+        "description": "Test04.02make_multiple_simulations",
+        "peekOfCode": "CUTOFFCHARGEBONDDIPOLE = \"14.0\"\nCUTOFFBONDDIPOLEBONDDIPOLE = \"14.0\"\nNumberOfCycles = \"20000\"\nNumberOfInitializationCycles = \"10000\"\nPrintEvery = \"5000\"\ncif_list_path = \"04cif_list.txt\"\nwith open(cif_list_path, \"r\") as file:\n    cif_list = [line.strip() for line in file if line.strip()]\n    # Execute the simulation script for each CIF\n    for mof in cif_list:",
+        "detail": "Test04.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "CUTOFFBONDDIPOLEBONDDIPOLE",
+        "kind": 5,
+        "importPath": "Test04.02make_multiple_simulations",
+        "description": "Test04.02make_multiple_simulations",
+        "peekOfCode": "CUTOFFBONDDIPOLEBONDDIPOLE = \"14.0\"\nNumberOfCycles = \"20000\"\nNumberOfInitializationCycles = \"10000\"\nPrintEvery = \"5000\"\ncif_list_path = \"04cif_list.txt\"\nwith open(cif_list_path, \"r\") as file:\n    cif_list = [line.strip() for line in file if line.strip()]\n    # Execute the simulation script for each CIF\n    for mof in cif_list:\n        print(mof)",
+        "detail": "Test04.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "NumberOfCycles",
+        "kind": 5,
+        "importPath": "Test04.02make_multiple_simulations",
+        "description": "Test04.02make_multiple_simulations",
+        "peekOfCode": "NumberOfCycles = \"20000\"\nNumberOfInitializationCycles = \"10000\"\nPrintEvery = \"5000\"\ncif_list_path = \"04cif_list.txt\"\nwith open(cif_list_path, \"r\") as file:\n    cif_list = [line.strip() for line in file if line.strip()]\n    # Execute the simulation script for each CIF\n    for mof in cif_list:\n        print(mof)\n        try:",
+        "detail": "Test04.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "NumberOfInitializationCycles",
+        "kind": 5,
+        "importPath": "Test04.02make_multiple_simulations",
+        "description": "Test04.02make_multiple_simulations",
+        "peekOfCode": "NumberOfInitializationCycles = \"10000\"\nPrintEvery = \"5000\"\ncif_list_path = \"04cif_list.txt\"\nwith open(cif_list_path, \"r\") as file:\n    cif_list = [line.strip() for line in file if line.strip()]\n    # Execute the simulation script for each CIF\n    for mof in cif_list:\n        print(mof)\n        try:\n            print(f\"Executing simulation for CIF: {mof}\")",
+        "detail": "Test04.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "PrintEvery",
+        "kind": 5,
+        "importPath": "Test04.02make_multiple_simulations",
+        "description": "Test04.02make_multiple_simulations",
+        "peekOfCode": "PrintEvery = \"5000\"\ncif_list_path = \"04cif_list.txt\"\nwith open(cif_list_path, \"r\") as file:\n    cif_list = [line.strip() for line in file if line.strip()]\n    # Execute the simulation script for each CIF\n    for mof in cif_list:\n        print(mof)\n        try:\n            print(f\"Executing simulation for CIF: {mof}\")\n            subprocess.run([\"python\", \"01make_simulation.py\",",
+        "detail": "Test04.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "cif_list_path",
+        "kind": 5,
+        "importPath": "Test04.02make_multiple_simulations",
+        "description": "Test04.02make_multiple_simulations",
+        "peekOfCode": "cif_list_path = \"04cif_list.txt\"\nwith open(cif_list_path, \"r\") as file:\n    cif_list = [line.strip() for line in file if line.strip()]\n    # Execute the simulation script for each CIF\n    for mof in cif_list:\n        print(mof)\n        try:\n            print(f\"Executing simulation for CIF: {mof}\")\n            subprocess.run([\"python\", \"01make_simulation.py\",\n                            \"--mof\", mof,",
+        "detail": "Test04.02make_multiple_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "run_simulation",
+        "kind": 2,
+        "importPath": "Test04.03run_all",
+        "description": "Test04.03run_all",
+        "peekOfCode": "def run_simulation(sim_dir, raspa_dir):\n    try:\n        print(f\"Running simulation in {sim_dir}...\")\n        simulation_command = f\"{raspa_dir}/bin/simulate simulation.input\"\n        subprocess.run(simulation_command, shell=True, check=True, cwd=sim_dir)  # 해당 디렉토리에서 실행\n        print(f\"Simulation completed in {sim_dir}.\")\n    except subprocess.CalledProcessError as e:\n        print(f\"Error occurred in {sim_dir}: {e}\")\ndef main():\n    # 명령줄 인자 파서 설정",
+        "detail": "Test04.03run_all",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "Test04.03run_all",
+        "description": "Test04.03run_all",
+        "peekOfCode": "def main():\n    # 명령줄 인자 파서 설정\n    parser = argparse.ArgumentParser(description=\"Run simulations in parallel across directories.\")\n    parser.add_argument(\"--num_cpus\", type=int, default=10, help=\"Number of CPUs to use for parallel processing (-1 for all available CPUs).\")\n    RASPA_DIR = os.getenv(\"RASPA_DIR\")\n    if not RASPA_DIR:\n        raise EnvironmentError(\"RASPA_DIR 환경 변수가 설정되지 않았습니다.\")\n    args = parser.parse_args()\n    # 현재 디렉토리의 서브디렉토리 가져오기\n    sim_dirs = [d for d in os.listdir('.') if os.path.isdir(d)]",
+        "detail": "Test04.03run_all",
+        "documentation": {}
+    },
+    {
+        "label": "process_for_path",
+        "kind": 2,
+        "importPath": "Test04.05crop_simulations",
+        "description": "Test04.05crop_simulations",
+        "peekOfCode": "def process_for_path(path):\n    print(path)\n    sim_name = path.split(\"/Output/System_0\")[0]\n    sim_splited = sim_name.split(\"_\")\n    cutoff = sim_splited[-1]\n    pressure = float(sim_splited[-2].split(\"bar\")[0])\n    temp = float(sim_splited[-3].split(\"K\")[0])\n    gas =  sim_splited[-4]\n    mof = \"_\".join(sim_splited[:-4])\n    dic = {",
+        "detail": "Test04.05crop_simulations",
+        "documentation": {}
+    },
+    {
+        "label": "copysim",
+        "kind": 2,
+        "importPath": "Test04.pyrascont",
+        "description": "Test04.pyrascont",
+        "peekOfCode": "def copysim(dir_orig, dir_prefix, N_copy):\n    # dir_org: original directory\n    # dir_prefix: prefix for copied directories\n    # N_copy: number of copies\n    dir_pre = dir_prefix\n    #basepath = os.path.dirname(os.path.abspath(__file__))\n    basepath = os.getcwd()\n    dirlist_copied = []\n    for ii in range(N_copy):\n        dirnam_tmp = dir_pre + '{0:03d}'.format(ii)",
+        "detail": "Test04.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "editsim",
+        "kind": 2,
+        "importPath": "Test04.pyrascont",
+        "description": "Test04.pyrascont",
+        "peekOfCode": "def editsim(targ_dir, P_targ, T_targ, Sorbent, UnitCells, PrintResult=False):\n    basepath = os.getcwd()\n    os.chdir(targ_dir)\n    f = open('simulation.input','r')\n    f_cont = f.readlines()\n    f.close()\n    n_extP = len('ExternalPressure')\n    n_extT = len('ExternalTemperature') \n    n_sorb = len('FrameworkName')\n    n_unit = len('UnitCells')",
+        "detail": "Test04.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "runsim",
+        "kind": 2,
+        "importPath": "Test04.pyrascont",
+        "description": "Test04.pyrascont",
+        "peekOfCode": "def runsim(targ_dir):\n    basepath = os.getcwd()\n    os.chdir(targ_dir)\n    os.system('nohup sh run simulation.input &')\n    os.chdir(basepath)\n# %% Find the simulation directories based on its prefix\ndef findsimdir(targ_prefix):\n    dir_list = os.listdir()\n    n_pre = len(targ_prefix)\n    targ_dir_list = []",
+        "detail": "Test04.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "findsimdir",
+        "kind": 2,
+        "importPath": "Test04.pyrascont",
+        "description": "Test04.pyrascont",
+        "peekOfCode": "def findsimdir(targ_prefix):\n    dir_list = os.listdir()\n    n_pre = len(targ_prefix)\n    targ_dir_list = []\n    for ff in dir_list:\n        if ff[:n_pre] == targ_prefix:\n            targ_dir_list.append(ff)\n    targ_dir_list.sort()\n    return targ_dir_list\n# %% Remove simulation directories based on its prefix",
+        "detail": "Test04.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "removesim",
+        "kind": 2,
+        "importPath": "Test04.pyrascont",
+        "description": "Test04.pyrascont",
+        "peekOfCode": "def removesim(targ_prefix):\n    n_prefix = len(targ_prefix)\n    f_list = os.listdir()\n    f_list_order = np.sort(f_list)\n    for ff in f_list_order:\n        if len(ff) < n_prefix:\n            continue\n        if os.path.isfile(ff):\n            continue\n        if ff[:n_prefix] == targ_prefix:",
+        "detail": "Test04.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "cpucheck",
+        "kind": 2,
+        "importPath": "Test04.pyrascont",
+        "description": "Test04.pyrascont",
+        "peekOfCode": "def cpucheck():\n    #load1, load5, load15 = psutil.getloadavg() \n    #cpu_usage_percent = (load15/os.cpu_count()) * 100 \n    cpu_use_list = []\n    for ii in range(4):\n        cpu_use_test = psutil.cpu_percent(0.5)\n        cpu_use_list.append(cpu_use_test)\n    arg_min = np.argmin(cpu_use_list)\n    cpu_dum = cpu_use_list.pop(arg_min)\n    cpu_perc_average = np.mean(cpu_dum)",
+        "detail": "Test04.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "cropsim",
+        "kind": 2,
+        "importPath": "Test04.pyrascont",
+        "description": "Test04.pyrascont",
+        "peekOfCode": "def cropsim(targ_dir):\n    dir_targ_nam = targ_dir\n    basepath = os.getcwd()\n    os.chdir(basepath)\n    os.chdir(dir_targ_nam)\n    os.chdir('Output/System_0')\n    f_nam_list = os.listdir()\n    #print(f_nam_list)\n    prop_targ = '\\tAverage loading absolute [mol/kg frame'\n    n_prop_str = len(prop_targ)",
+        "detail": "Test04.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "cif2Ucell",
+        "kind": 2,
+        "importPath": "Test04.pyrascont",
+        "description": "Test04.pyrascont",
+        "peekOfCode": "def cif2Ucell(cif, cutoff, Display = False):\n    deg2rad=pi/180.\n    f_tmp = open(cif + '.cif')\n    f_cont = f_tmp.readlines()\n    f_tmp.close()\n    n_a = len('_cell_length_a')\n    n_b = len('_cell_length_b')\n    n_c = len('_cell_length_c')\n    n_alp = len('_cell_angle_alpha')\n    n_bet = len('_cell_angle_beta')",
+        "detail": "Test04.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "killall",
+        "kind": 2,
+        "importPath": "Test04.pyrascont",
+        "description": "Test04.pyrascont",
+        "peekOfCode": "def killall():\n    cc = 0\n    for proc in psutil.process_iter():\n        #print(proc.name())\n        #print(proc)\n        if proc.name() == 'simulate':\n            cc =cc + 1\n            proc.kill()\n            print(proc.name(), '#', cc,': ', proc.pid, ' is killed !') \n'''",
+        "detail": "Test04.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "pi",
+        "kind": 5,
+        "importPath": "Test04.pyrascont",
+        "description": "Test04.pyrascont",
+        "peekOfCode": "pi = np.pi\n#targ_dir = 'sim_copy0'\n#basepath = os.path.abspath(os.path.dirname(__file__))\n#P_targ = 500000\n#T_targ = 323\n# %% Function for copy simulation directories\ndef copysim(dir_orig, dir_prefix, N_copy):\n    # dir_org: original directory\n    # dir_prefix: prefix for copied directories\n    # N_copy: number of copies",
+        "detail": "Test04.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "#targ_dir",
+        "kind": 5,
+        "importPath": "Test04.pyrascont",
+        "description": "Test04.pyrascont",
+        "peekOfCode": "#targ_dir = 'sim_copy0'\n#basepath = os.path.abspath(os.path.dirname(__file__))\n#P_targ = 500000\n#T_targ = 323\n# %% Function for copy simulation directories\ndef copysim(dir_orig, dir_prefix, N_copy):\n    # dir_org: original directory\n    # dir_prefix: prefix for copied directories\n    # N_copy: number of copies\n    dir_pre = dir_prefix",
+        "detail": "Test04.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "#basepath",
+        "kind": 5,
+        "importPath": "Test04.pyrascont",
+        "description": "Test04.pyrascont",
+        "peekOfCode": "#basepath = os.path.abspath(os.path.dirname(__file__))\n#P_targ = 500000\n#T_targ = 323\n# %% Function for copy simulation directories\ndef copysim(dir_orig, dir_prefix, N_copy):\n    # dir_org: original directory\n    # dir_prefix: prefix for copied directories\n    # N_copy: number of copies\n    dir_pre = dir_prefix\n    #basepath = os.path.dirname(os.path.abspath(__file__))",
+        "detail": "Test04.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "#P_targ",
+        "kind": 5,
+        "importPath": "Test04.pyrascont",
+        "description": "Test04.pyrascont",
+        "peekOfCode": "#P_targ = 500000\n#T_targ = 323\n# %% Function for copy simulation directories\ndef copysim(dir_orig, dir_prefix, N_copy):\n    # dir_org: original directory\n    # dir_prefix: prefix for copied directories\n    # N_copy: number of copies\n    dir_pre = dir_prefix\n    #basepath = os.path.dirname(os.path.abspath(__file__))\n    basepath = os.getcwd()",
+        "detail": "Test04.pyrascont",
+        "documentation": {}
+    },
+    {
+        "label": "#T_targ",
+        "kind": 5,
+        "importPath": "Test04.pyrascont",
+        "description": "Test04.pyrascont",
+        "peekOfCode": "#T_targ = 323\n# %% Function for copy simulation directories\ndef copysim(dir_orig, dir_prefix, N_copy):\n    # dir_org: original directory\n    # dir_prefix: prefix for copied directories\n    # N_copy: number of copies\n    dir_pre = dir_prefix\n    #basepath = os.path.dirname(os.path.abspath(__file__))\n    basepath = os.getcwd()\n    dirlist_copied = []",
+        "detail": "Test04.pyrascont",
+        "documentation": {}
+    }
+]

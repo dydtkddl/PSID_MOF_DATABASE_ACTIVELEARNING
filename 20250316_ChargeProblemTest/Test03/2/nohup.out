@@ -1,0 +1,132 @@
+_cell_length_a: 17.439300
+_cell_length_b: 30.174100
+_cell_length_c: 30.174100
+_cell_length_alpha: 85.209800
+_cell_length_beta: 73.203200
+_cell_length_gamma: 73.203300
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+_cell_length_a: 5.278800
+_cell_length_b: 15.467000
+_cell_length_c: 8.295000
+_cell_length_alpha: 90.000000
+space group found from symmetry elements: 1 (nr elements: 1)
+_cell_length_beta: 92.552000
+_cell_length_gamma: 90.000000
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+_cell_length_a: 16.085300
+_cell_length_b: 17.416900
+_cell_length_c: 19.366700
+_cell_length_alpha: 69.090000
+_cell_length_beta: 65.463000
+space group found from symmetry elements: 1 (nr elements: 1)
+_cell_length_gamma: 62.498500
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+space group found from symmetry elements: 1 (nr elements: 1)
+_cell_length_a: 18.651000
+_cell_length_b: 18.651000
+_cell_length_c: 18.651000
+_cell_length_alpha: 60.000000
+_cell_length_beta: 60.000000
+_cell_length_gamma: 60.000000
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+space group found from symmetry elements: 1 (nr elements: 1)
+_cell_length_a: 10.462200
+_cell_length_b: 7.187000
+_cell_length_c: 13.454400
+_cell_length_alpha: 90.000000
+_cell_length_beta: 112.694000
+_cell_length_gamma: 90.000000
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+space group found from symmetry elements: 1 (nr elements: 1)
+_cell_length_a: 5.091900
+_cell_length_b: 9.252800
+_cell_length_c: 12.740000
+_cell_length_alpha: 73.820000
+_cell_length_beta: 84.580000
+_cell_length_gamma: 74.130000
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+space group found from symmetry elements: 1 (nr elements: 1)
+_cell_length_a: 38.988100
+_cell_length_b: 38.988100
+_cell_length_c: 22.296200
+_cell_length_alpha: 90.000000
+_cell_length_beta: 90.000000
+_cell_length_gamma: 120.000000
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+space group found from symmetry elements: 1 (nr elements: 1)
+_cell_length_a: 17.116800
+_cell_length_b: 17.116800
+_cell_length_c: 17.116800
+_cell_length_alpha: 90.000000
+_cell_length_beta: 90.000000
+_cell_length_gamma: 90.000000
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+space group found from symmetry elements: 1 (nr elements: 1)
+_cell_length_a: 5.636400
+_cell_length_b: 18.886300
+_cell_length_c: 25.301000
+_cell_length_alpha: 90.000000
+_cell_length_beta: 90.000000
+_cell_length_gamma: 95.470000
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+space group found from symmetry elements: 1 (nr elements: 1)
+_cell_length_a: 31.495500
+_cell_length_b: 31.495500
+_cell_length_c: 31.623400
+_cell_length_alpha: 119.866000
+_cell_length_beta: 119.866000
+_cell_length_gamma: 90.000000
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+space group found from symmetry elements: 1 (nr elements: 1)
+End reading cif-file
+End reading cif-file
+End reading cif-file
+End reading cif-file
+End reading cif-file
+End reading cif-file
+End reading cif-file
+End reading cif-file
+End reading cif-file
+Shift all potentials
+'force_field.def' file not found and therefore not used
+End reading cif-file
+Shift all potentials
+'force_field.def' file not found and therefore not used
+Shift all potentials
+'force_field.def' file not found and therefore not used
+Shift all potentials
+'force_field.def' file not found and therefore not used
+Shift all potentials
+'force_field.def' file not found and therefore not used
+Shift all potentials
+'force_field.def' file not found and therefore not used
+Shift all potentials
+'force_field.def' file not found and therefore not used
+Shift all potentials
+'force_field.def' file not found and therefore not used
+Shift all potentials
+'force_field.def' file not found and therefore not used
+Shift all potentials
+'force_field.def' file not found and therefore not used
+Running simulation in XADDEN_manual_O2_293.15K_1.0bar_14.0...
+Simulation completed in XADDEN_manual_O2_293.15K_1.0bar_14.0.
+Running simulation in __pycache__...
+Error occurred in __pycache__: Command '/home/ys/Research/simulations/bin/simulate simulation.input' died with <Signals.SIGSEGV: 11>.
+Running simulation in TOFTIT_clean_O2_293.15K_1.0bar_14.0...
+Simulation completed in TOFTIT_clean_O2_293.15K_1.0bar_14.0.
+Running simulation in ZOFZUR_clean_O2_293.15K_1.0bar_14.0...
+Simulation completed in ZOFZUR_clean_O2_293.15K_1.0bar_14.0.
+Running simulation in NAHHAI_clean_O2_293.15K_1.0bar_14.0...
+Simulation completed in NAHHAI_clean_O2_293.15K_1.0bar_14.0.
+Running simulation in XOPLOE_clean_O2_293.15K_1.0bar_14.0...
+Simulation completed in XOPLOE_clean_O2_293.15K_1.0bar_14.0.
+Running simulation in DITYEM_clean_O2_293.15K_1.0bar_14.0...
+Simulation completed in DITYEM_clean_O2_293.15K_1.0bar_14.0.
+Running simulation in QAVPIO_clean_O2_293.15K_1.0bar_14.0...
+Simulation completed in QAVPIO_clean_O2_293.15K_1.0bar_14.0.
+Running simulation in XALCUJ_clean_O2_293.15K_1.0bar_14.0...
+Simulation completed in XALCUJ_clean_O2_293.15K_1.0bar_14.0.
+Running simulation in XEXMEU_clean_O2_293.15K_1.0bar_14.0...
+Simulation completed in XEXMEU_clean_O2_293.15K_1.0bar_14.0.
+Running simulation in c6cc00589f_c6cc00589f2_clean_O2_293.15K_1.0bar_14.0...
+Simulation completed in c6cc00589f_c6cc00589f2_clean_O2_293.15K_1.0bar_14.0.
