@@ -1,0 +1,652 @@
+_cell_length_a: 18.097300
+_cell_length_a: 39.133200
+_cell_length_a: 13.407100
+_cell_length_b: 28.436900
+_cell_length_a: 13.682300
+_cell_length_b: 27.450300
+_cell_length_b: 15.794000
+_cell_length_c: 28.501600
+_cell_length_b: 12.606300
+_cell_length_c: 27.349700
+_cell_length_a: 11.540800
+_cell_length_c: 17.814700
+_cell_length_alpha: 90.000000
+_cell_length_c: 12.753500
+_cell_length_alpha: 90.000000
+_cell_length_b: 16.159000
+_cell_length_alpha: 93.021000
+_cell_length_beta: 90.000000
+_cell_length_alpha: 90.000000
+_cell_length_beta: 134.022000
+_cell_length_c: 12.001900
+_cell_length_beta: 90.000000
+_cell_length_gamma: 90.000000
+_cell_length_beta: 116.988000
+_cell_length_gamma: 90.000000
+_cell_length_a: 9.935900
+_cell_length_alpha: 90.000000
+_cell_length_gamma: 90.000000
+_cell_length_gamma: 90.000000
+_cell_length_b: 9.935900
+_cell_length_beta: 112.733000
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+_cell_length_c: 6.447100
+_cell_length_gamma: 90.000000
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+_cell_length_alpha: 90.000000
+_cell_length_beta: 90.000000
+_cell_length_a: 7.895100
+_cell_length_gamma: 90.000000
+_cell_length_b: 9.807000
+_cell_length_a: 12.309600
+space group found from symmetry elements: 1 (nr elements: 1)
+space group found from symmetry elements: 1 (nr elements: 1)
+space group found from symmetry elements: 1 (nr elements: 1)
+_cell_length_a: 29.264900
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+_cell_length_c: 17.367100
+space group found from symmetry elements: 1 (nr elements: 1)
+_cell_length_b: 11.757000
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+_cell_length_b: 7.897500
+_cell_length_alpha: 106.400000
+_cell_length_c: 12.633400
+_cell_length_c: 42.565400
+_cell_length_beta: 96.407000
+_cell_length_alpha: 90.000000
+_cell_length_alpha: 90.000000
+_cell_length_gamma: 90.000000
+space group found from symmetry elements: 1 (nr elements: 1)
+_cell_length_beta: 98.103000
+_cell_length_beta: 90.000000
+space group found from symmetry elements: 1 (nr elements: 1)
+_cell_length_gamma: 90.000000
+_cell_length_gamma: 90.000000
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+space group found from symmetry elements: 1 (nr elements: 1)
+space group found from symmetry elements: 1 (nr elements: 1)
+space group found from symmetry elements: 1 (nr elements: 1)
+_cell_length_a: 17.205300
+_cell_length_b: 11.646200
+_cell_length_c: 18.262900
+_cell_length_alpha: 90.000000
+_cell_length_beta: 110.462000
+_cell_length_gamma: 90.000000
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+space group found from symmetry elements: 1 (nr elements: 1)
+_cell_length_a: 8.653800
+_cell_length_b: 14.414400
+_cell_length_c: 37.488400
+_cell_length_alpha: 90.000000
+_cell_length_beta: 90.000000
+_cell_length_gamma: 90.000000
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+space group found from symmetry elements: 1 (nr elements: 1)
+_cell_length_a: 32.819500
+_cell_length_b: 32.819500
+_cell_length_c: 19.079300
+_cell_length_alpha: 90.000000
+_cell_length_beta: 90.000000
+_cell_length_gamma: 120.000000
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+space group found from symmetry elements: 1 (nr elements: 1)
+End reading cif-file
+_cell_length_a: 9.133200
+_cell_length_b: 13.839700
+_cell_length_c: 9.084700
+_cell_length_alpha: 90.000000
+_cell_length_beta: 117.392000
+_cell_length_gamma: 90.000000
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+space group found from symmetry elements: 1 (nr elements: 1)
+_cell_length_a: 32.221400
+_cell_length_b: 32.221400
+_cell_length_c: 35.994100
+_cell_length_alpha: 63.410700
+_cell_length_beta: 63.410700
+_cell_length_gamma: 60.000000
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+space group found from symmetry elements: 1 (nr elements: 1)
+End reading cif-file
+End reading cif-file
+_cell_length_a: 35.490000
+_cell_length_b: 35.490000
+_cell_length_c: 35.490000
+_cell_length_alpha: 90.000000
+_cell_length_beta: 90.000000
+_cell_length_gamma: 90.000000
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+space group found from symmetry elements: 1 (nr elements: 1)
+End reading cif-file
+End reading cif-file
+End reading cif-file
+End reading cif-file
+End reading cif-file
+End reading cif-file
+Shift all potentials
+'force_field.def' file not found and therefore not used
+End reading cif-file
+End reading cif-file
+Shift all potentials
+'force_field.def' file not found and therefore not used
+End reading cif-file
+Shift all potentials
+'force_field.def' file not found and therefore not used
+End reading cif-file
+End reading cif-file
+End reading cif-file
+Shift all potentials
+'force_field.def' file not found and therefore not used
+Shift all potentials
+'force_field.def' file not found and therefore not used
+Shift all potentials
+'force_field.def' file not found and therefore not used
+Shift all potentials
+'force_field.def' file not found and therefore not used
+Shift all potentials
+'force_field.def' file not found and therefore not used
+Shift all potentials
+'force_field.def' file not found and therefore not used
+Shift all potentials
+'force_field.def' file not found and therefore not used
+Shift all potentials
+'force_field.def' file not found and therefore not used
+Shift all potentials
+'force_field.def' file not found and therefore not used
+Shift all potentials
+'force_field.def' file not found and therefore not used
+Shift all potentials
+'force_field.def' file not found and therefore not used
+Shift all potentials
+'force_field.def' file not found and therefore not used
+_cell_length_a: 9.480600
+_cell_length_b: 18.127000
+_cell_length_c: 18.693000
+_cell_length_alpha: 61.880000
+_cell_length_beta: 83.980000
+_cell_length_gamma: 86.350000
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+space group found from symmetry elements: 1 (nr elements: 1)
+End reading cif-file
+Shift all potentials
+'force_field.def' file not found and therefore not used
+_cell_length_a: 15.183400
+_cell_length_b: 15.183400
+_cell_length_c: 26.528200
+_cell_length_alpha: 90.000000
+_cell_length_beta: 90.000000
+_cell_length_gamma: 120.000000
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+space group found from symmetry elements: 1 (nr elements: 1)
+End reading cif-file
+Shift all potentials
+'force_field.def' file not found and therefore not used
+_cell_length_a: 27.837000
+_cell_length_b: 9.892000
+_cell_length_c: 10.446000
+_cell_length_alpha: 90.000000
+_cell_length_beta: 90.000000
+_cell_length_gamma: 90.000000
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+space group found from symmetry elements: 1 (nr elements: 1)
+End reading cif-file
+Shift all potentials
+'force_field.def' file not found and therefore not used
+_cell_length_a: 28.847100
+_cell_length_b: 14.453400
+_cell_length_c: 12.252000
+_cell_length_alpha: 90.000000
+_cell_length_beta: 90.000000
+_cell_length_gamma: 90.000000
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+space group found from symmetry elements: 1 (nr elements: 1)
+End reading cif-file
+Shift all potentials
+'force_field.def' file not found and therefore not used
+_cell_length_a: 37.737000
+_cell_length_b: 11.102000
+_cell_length_c: 6.811000
+_cell_length_alpha: 90.000000
+_cell_length_beta: 91.060000
+_cell_length_gamma: 90.000000
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+space group found from symmetry elements: 1 (nr elements: 1)
+End reading cif-file
+Shift all potentials
+'force_field.def' file not found and therefore not used
+_cell_length_a: 10.608000
+_cell_length_b: 24.651000
+_cell_length_c: 7.239000
+_cell_length_alpha: 90.000000
+_cell_length_beta: 95.291000
+_cell_length_gamma: 90.000000
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+space group found from symmetry elements: 1 (nr elements: 1)
+End reading cif-file
+Shift all potentials
+'force_field.def' file not found and therefore not used
+_cell_length_a: 19.606500
+_cell_length_b: 19.606500
+_cell_length_c: 22.180800
+_cell_length_alpha: 90.000000
+_cell_length_beta: 90.000000
+_cell_length_gamma: 90.000000
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+space group found from symmetry elements: 1 (nr elements: 1)
+End reading cif-file
+Shift all potentials
+'force_field.def' file not found and therefore not used
+_cell_length_a: 30.234000
+_cell_length_b: 30.234000
+_cell_length_c: 30.234000
+_cell_length_alpha: 90.000000
+_cell_length_beta: 90.000000
+_cell_length_gamma: 90.000000
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+space group found from symmetry elements: 1 (nr elements: 1)
+End reading cif-file
+Shift all potentials
+'force_field.def' file not found and therefore not used
+_cell_length_a: 16.860000
+_cell_length_b: 24.513000
+_cell_length_c: 11.920000
+_cell_length_alpha: 90.000000
+_cell_length_beta: 109.392000
+_cell_length_gamma: 90.000000
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+space group found from symmetry elements: 1 (nr elements: 1)
+End reading cif-file
+Shift all potentials
+'force_field.def' file not found and therefore not used
+_cell_length_a: 10.984000
+_cell_length_b: 16.101000
+_cell_length_c: 19.692000
+_cell_length_alpha: 74.149000
+_cell_length_beta: 74.035000
+_cell_length_gamma: 72.054000
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+space group found from symmetry elements: 1 (nr elements: 1)
+End reading cif-file
+Shift all potentials
+'force_field.def' file not found and therefore not used
+_cell_length_a: 16.672700
+_cell_length_b: 17.591600
+_cell_length_c: 18.734000
+_cell_length_alpha: 77.826700
+_cell_length_beta: 63.577700
+_cell_length_gamma: 61.713500
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+space group found from symmetry elements: 1 (nr elements: 1)
+End reading cif-file
+Shift all potentials
+'force_field.def' file not found and therefore not used
+_cell_length_a: 13.912900
+_cell_length_b: 14.276700
+_cell_length_c: 18.623000
+_cell_length_alpha: 94.191000
+_cell_length_beta: 90.000000
+_cell_length_gamma: 90.000000
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+space group found from symmetry elements: 1 (nr elements: 1)
+End reading cif-file
+Shift all potentials
+'force_field.def' file not found and therefore not used
+_cell_length_a: 10.191200
+_cell_length_b: 13.700800
+_cell_length_c: 24.471000
+_cell_length_alpha: 81.030200
+_cell_length_beta: 77.981300
+_cell_length_gamma: 68.166000
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+space group found from symmetry elements: 1 (nr elements: 1)
+End reading cif-file
+Shift all potentials
+'force_field.def' file not found and therefore not used
+_cell_length_a: 13.749000
+_cell_length_b: 13.990000
+_cell_length_c: 14.073000
+_cell_length_alpha: 110.538000
+_cell_length_beta: 90.000000
+_cell_length_gamma: 90.000000
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+space group found from symmetry elements: 1 (nr elements: 1)
+End reading cif-file
+Shift all potentials
+'force_field.def' file not found and therefore not used
+_cell_length_a: 15.482800
+_cell_length_b: 15.482800
+_cell_length_c: 12.300900
+_cell_length_alpha: 90.000000
+_cell_length_beta: 90.000000
+_cell_length_gamma: 90.000000
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+space group found from symmetry elements: 1 (nr elements: 1)
+End reading cif-file
+Shift all potentials
+'force_field.def' file not found and therefore not used
+_cell_length_a: 35.283900
+_cell_length_b: 15.159200
+_cell_length_c: 30.690400
+_cell_length_alpha: 90.000000
+_cell_length_beta: 102.222000
+_cell_length_gamma: 90.000000
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+space group found from symmetry elements: 1 (nr elements: 1)
+End reading cif-file
+Shift all potentials
+'force_field.def' file not found and therefore not used
+_cell_length_a: 14.398600
+_cell_length_b: 31.365000
+_cell_length_c: 32.064700
+_cell_length_alpha: 90.000000
+_cell_length_beta: 90.000000
+_cell_length_gamma: 90.000000
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+space group found from symmetry elements: 1 (nr elements: 1)
+End reading cif-file
+Shift all potentials
+'force_field.def' file not found and therefore not used
+_cell_length_a: 16.847000
+_cell_length_b: 6.274100
+_cell_length_c: 15.814000
+_cell_length_alpha: 90.000000
+_cell_length_beta: 106.321000
+_cell_length_gamma: 90.000000
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+space group found from symmetry elements: 1 (nr elements: 1)
+End reading cif-file
+Shift all potentials
+'force_field.def' file not found and therefore not used
+_cell_length_a: 13.312000
+_cell_length_b: 7.316000
+_cell_length_c: 14.870000
+_cell_length_alpha: 90.000000
+_cell_length_beta: 91.315000
+_cell_length_gamma: 90.000000
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+space group found from symmetry elements: 1 (nr elements: 1)
+End reading cif-file
+Shift all potentials
+'force_field.def' file not found and therefore not used
+_cell_length_a: 21.481700
+_cell_length_b: 23.386700
+_cell_length_c: 19.875800
+_cell_length_alpha: 90.000000
+_cell_length_beta: 90.000000
+_cell_length_gamma: 90.000000
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+space group found from symmetry elements: 1 (nr elements: 1)
+End reading cif-file
+Shift all potentials
+'force_field.def' file not found and therefore not used
+_cell_length_a: 15.261400
+_cell_length_b: 15.261400
+_cell_length_c: 15.261400
+_cell_length_alpha: 76.215900
+_cell_length_beta: 76.215900
+_cell_length_gamma: 76.215900
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+space group found from symmetry elements: 1 (nr elements: 1)
+End reading cif-file
+Shift all potentials
+'force_field.def' file not found and therefore not used
+_cell_length_a: 14.104000
+_cell_length_b: 26.654000
+_cell_length_c: 7.645000
+_cell_length_alpha: 90.000000
+_cell_length_beta: 90.000000
+_cell_length_gamma: 90.000000
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+space group found from symmetry elements: 1 (nr elements: 1)
+End reading cif-file
+Shift all potentials
+'force_field.def' file not found and therefore not used
+_cell_length_a: 14.014700
+_cell_length_b: 18.315200
+_cell_length_c: 7.863000
+_cell_length_alpha: 90.000000
+_cell_length_beta: 105.464000
+_cell_length_gamma: 90.000000
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+space group found from symmetry elements: 1 (nr elements: 1)
+End reading cif-file
+Shift all potentials
+'force_field.def' file not found and therefore not used
+_cell_length_a: 9.600800
+_cell_length_b: 11.542200
+_cell_length_c: 14.288600
+_cell_length_alpha: 90.000000
+_cell_length_beta: 122.460000
+_cell_length_gamma: 90.000000
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+space group found from symmetry elements: 1 (nr elements: 1)
+End reading cif-file
+Shift all potentials
+'force_field.def' file not found and therefore not used
+_cell_length_a: 12.311000
+_cell_length_b: 14.049000
+_cell_length_c: 14.181000
+_cell_length_alpha: 116.920000
+_cell_length_beta: 111.720000
+_cell_length_gamma: 91.660000
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+space group found from symmetry elements: 1 (nr elements: 1)
+End reading cif-file
+Shift all potentials
+'force_field.def' file not found and therefore not used
+_cell_length_a: 27.604000
+_cell_length_b: 29.333000
+_cell_length_c: 13.110000
+_cell_length_alpha: 90.000000
+_cell_length_beta: 90.000000
+_cell_length_gamma: 90.000000
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+space group found from symmetry elements: 1 (nr elements: 1)
+End reading cif-file
+Shift all potentials
+'force_field.def' file not found and therefore not used
+_cell_length_a: 5.566700
+_cell_length_b: 15.629700
+_cell_length_c: 9.540800
+_cell_length_alpha: 90.000000
+_cell_length_beta: 91.803900
+_cell_length_gamma: 90.000000
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+space group found from symmetry elements: 1 (nr elements: 1)
+End reading cif-file
+Shift all potentials
+'force_field.def' file not found and therefore not used
+_cell_length_a: 36.705100
+_cell_length_b: 36.705100
+_cell_length_c: 36.705100
+_cell_length_alpha: 90.000000
+_cell_length_beta: 90.000000
+_cell_length_gamma: 90.000000
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+space group found from symmetry elements: 1 (nr elements: 1)
+End reading cif-file
+Shift all potentials
+'force_field.def' file not found and therefore not used
+_cell_length_a: 8.440800
+_cell_length_b: 9.263000
+_cell_length_c: 13.843000
+_cell_length_alpha: 81.119000
+_cell_length_beta: 83.643000
+_cell_length_gamma: 72.647000
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+space group found from symmetry elements: 1 (nr elements: 1)
+End reading cif-file
+Shift all potentials
+'force_field.def' file not found and therefore not used
+_cell_length_a: 14.438800
+_cell_length_b: 16.412800
+_cell_length_c: 19.331000
+_cell_length_alpha: 90.000000
+_cell_length_beta: 107.606000
+_cell_length_gamma: 90.000000
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+space group found from symmetry elements: 1 (nr elements: 1)
+End reading cif-file
+Shift all potentials
+'force_field.def' file not found and therefore not used
+_cell_length_a: 21.863000
+_cell_length_b: 26.745500
+_cell_length_c: 36.741000
+_cell_length_alpha: 109.617000
+_cell_length_beta: 90.000000
+_cell_length_gamma: 114.125000
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+space group found from symmetry elements: 1 (nr elements: 1)
+End reading cif-file
+Shift all potentials
+'force_field.def' file not found and therefore not used
+_cell_length_a: 18.294300
+_cell_length_b: 18.294300
+_cell_length_c: 18.294300
+_cell_length_alpha: 60.000000
+_cell_length_beta: 60.000000
+_cell_length_gamma: 60.000000
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+space group found from symmetry elements: 1 (nr elements: 1)
+End reading cif-file
+Shift all potentials
+'force_field.def' file not found and therefore not used
+_cell_length_a: 18.446800
+_cell_length_b: 13.257500
+_cell_length_c: 21.858600
+_cell_length_alpha: 90.000000
+_cell_length_beta: 99.491000
+_cell_length_gamma: 90.000000
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+space group found from symmetry elements: 1 (nr elements: 1)
+End reading cif-file
+Shift all potentials
+'force_field.def' file not found and therefore not used
+_cell_length_a: 10.836000
+_cell_length_b: 14.962000
+_cell_length_c: 14.967000
+_cell_length_alpha: 90.000000
+_cell_length_beta: 92.494000
+_cell_length_gamma: 90.000000
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+space group found from symmetry elements: 1 (nr elements: 1)
+End reading cif-file
+Shift all potentials
+'force_field.def' file not found and therefore not used
+_cell_length_a: 10.171600
+_cell_length_b: 17.744000
+_cell_length_c: 17.744000
+_cell_length_alpha: 120.000000
+_cell_length_beta: 90.000000
+_cell_length_gamma: 90.000000
+_symmetry_space_group_name_H-M: P 1 found space group: 1
+space group found from symmetry elements: 1 (nr elements: 1)
+End reading cif-file
+Shift all potentials
+'force_field.def' file not found and therefore not used
+Running simulation in SOCWOY_clean_helium_298.0K_5.0bar_14.0...
+Simulation completed in SOCWOY_clean_helium_298.0K_5.0bar_14.0.
+Running simulation in IYESUC_clean_helium_298.0K_5.0bar_14.0...
+Simulation completed in IYESUC_clean_helium_298.0K_5.0bar_14.0.
+Running simulation in ETUWIA_clean_helium_298.0K_5.0bar_14.0...
+Simulation completed in ETUWIA_clean_helium_298.0K_5.0bar_14.0.
+Running simulation in XEQRAO_clean_helium_298.0K_5.0bar_14.0...
+Simulation completed in XEQRAO_clean_helium_298.0K_5.0bar_14.0.
+Running simulation in ASEKAM_clean_helium_298.0K_5.0bar_14.0...
+Simulation completed in ASEKAM_clean_helium_298.0K_5.0bar_14.0.
+Running simulation in IYAZAL_clean_helium_298.0K_5.0bar_14.0...
+Simulation completed in IYAZAL_clean_helium_298.0K_5.0bar_14.0.
+Running simulation in NUMPAO_clean_helium_298.0K_5.0bar_14.0...
+Simulation completed in NUMPAO_clean_helium_298.0K_5.0bar_14.0.
+Running simulation in UXACAY_clean_helium_298.0K_5.0bar_14.0...
+Simulation completed in UXACAY_clean_helium_298.0K_5.0bar_14.0.
+Running simulation in EXUHEM_clean_helium_298.0K_5.0bar_14.0...
+Simulation completed in EXUHEM_clean_helium_298.0K_5.0bar_14.0.
+Running simulation in AVUCEA_clean_helium_298.0K_5.0bar_14.0...
+Simulation completed in AVUCEA_clean_helium_298.0K_5.0bar_14.0.
+Running simulation in RARYUF_clean_helium_298.0K_5.0bar_14.0...
+Simulation completed in RARYUF_clean_helium_298.0K_5.0bar_14.0.
+Running simulation in HAMJOW_clean_helium_298.0K_5.0bar_14.0...
+Simulation completed in HAMJOW_clean_helium_298.0K_5.0bar_14.0.
+Running simulation in DARVAW_clean_helium_298.0K_5.0bar_14.0...
+Simulation completed in DARVAW_clean_helium_298.0K_5.0bar_14.0.
+Running simulation in ULOMAL_clean_helium_298.0K_5.0bar_14.0...
+Simulation completed in ULOMAL_clean_helium_298.0K_5.0bar_14.0.
+Running simulation in GUSJOU_clean_helium_298.0K_5.0bar_14.0...
+Simulation completed in GUSJOU_clean_helium_298.0K_5.0bar_14.0.
+Running simulation in EHIHEI_clean_helium_298.0K_5.0bar_14.0...
+Simulation completed in EHIHEI_clean_helium_298.0K_5.0bar_14.0.
+Running simulation in SOBZEQ_clean_helium_298.0K_5.0bar_14.0...
+Simulation completed in SOBZEQ_clean_helium_298.0K_5.0bar_14.0.
+Running simulation in COCMUE_clean_helium_298.0K_5.0bar_14.0...
+Simulation completed in COCMUE_clean_helium_298.0K_5.0bar_14.0.
+Running simulation in CUPHUS_clean_helium_298.0K_5.0bar_14.0...
+Simulation completed in CUPHUS_clean_helium_298.0K_5.0bar_14.0.
+Running simulation in HAJDII_clean_helium_298.0K_5.0bar_14.0...
+Simulation completed in HAJDII_clean_helium_298.0K_5.0bar_14.0.
+Running simulation in LAWGIA_clean_helium_298.0K_5.0bar_14.0...
+Simulation completed in LAWGIA_clean_helium_298.0K_5.0bar_14.0.
+Running simulation in HAWWAF_clean_helium_298.0K_5.0bar_14.0...
+Simulation completed in HAWWAF_clean_helium_298.0K_5.0bar_14.0.
+Running simulation in TAZYAV_clean_helium_298.0K_5.0bar_14.0...
+Simulation completed in TAZYAV_clean_helium_298.0K_5.0bar_14.0.
+Running simulation in acs.inorgchem.6b00413_ic6b00413_si_003_clean_helium_298.0K_5.0bar_14.0...
+Simulation completed in acs.inorgchem.6b00413_ic6b00413_si_003_clean_helium_298.0K_5.0bar_14.0.
+Running simulation in COTVOY_clean_helium_298.0K_5.0bar_14.0...
+Simulation completed in COTVOY_clean_helium_298.0K_5.0bar_14.0.
+Running simulation in ARIDIQ_clean_helium_298.0K_5.0bar_14.0...
+Simulation completed in ARIDIQ_clean_helium_298.0K_5.0bar_14.0.
+Running simulation in GEBPEK_clean_helium_298.0K_5.0bar_14.0...
+Simulation completed in GEBPEK_clean_helium_298.0K_5.0bar_14.0.
+Running simulation in OWIJIP_clean_helium_298.0K_5.0bar_14.0...
+Simulation completed in OWIJIP_clean_helium_298.0K_5.0bar_14.0.
+Running simulation in LACYEW_clean_helium_298.0K_5.0bar_14.0...
+Simulation completed in LACYEW_clean_helium_298.0K_5.0bar_14.0.
+Running simulation in HUZYAE_clean_helium_298.0K_5.0bar_14.0...
+Simulation completed in HUZYAE_clean_helium_298.0K_5.0bar_14.0.
+Running simulation in LAMHAI_clean_helium_298.0K_5.0bar_14.0...
+Simulation completed in LAMHAI_clean_helium_298.0K_5.0bar_14.0.
+Running simulation in ILOJEZ_clean_helium_298.0K_5.0bar_14.0...
+Simulation completed in ILOJEZ_clean_helium_298.0K_5.0bar_14.0.
+Running simulation in __pycache__...
+Error occurred in __pycache__: Command '/home/ys/Research/simulations/bin/simulate simulation.input' died with <Signals.SIGSEGV: 11>.
+Running simulation in AVAKAL_clean_helium_298.0K_5.0bar_14.0...
+Simulation completed in AVAKAL_clean_helium_298.0K_5.0bar_14.0.
+Running simulation in CODSOF_clean_helium_298.0K_5.0bar_14.0...
+Simulation completed in CODSOF_clean_helium_298.0K_5.0bar_14.0.
+Running simulation in YEKXOD_clean_helium_298.0K_5.0bar_14.0...
+Simulation completed in YEKXOD_clean_helium_298.0K_5.0bar_14.0.
+Running simulation in MEXDAU_clean_helium_298.0K_5.0bar_14.0...
+Simulation completed in MEXDAU_clean_helium_298.0K_5.0bar_14.0.
+Running simulation in WAVROC_clean_helium_298.0K_5.0bar_14.0...
+Simulation completed in WAVROC_clean_helium_298.0K_5.0bar_14.0.
+Running simulation in YUMKAU_clean_helium_298.0K_5.0bar_14.0...
+Simulation completed in YUMKAU_clean_helium_298.0K_5.0bar_14.0.
+Running simulation in CUNQOT_clean_helium_298.0K_5.0bar_14.0...
+Simulation completed in CUNQOT_clean_helium_298.0K_5.0bar_14.0.
+Running simulation in BEPNUH_clean_helium_298.0K_5.0bar_14.0...
+Simulation completed in BEPNUH_clean_helium_298.0K_5.0bar_14.0.
+Running simulation in UMESIQ_clean_helium_298.0K_5.0bar_14.0...
+Simulation completed in UMESIQ_clean_helium_298.0K_5.0bar_14.0.
+Running simulation in WIPLOY_clean_helium_298.0K_5.0bar_14.0...
+Simulation completed in WIPLOY_clean_helium_298.0K_5.0bar_14.0.
+Running simulation in YATWAU_clean_helium_298.0K_5.0bar_14.0...
+Simulation completed in YATWAU_clean_helium_298.0K_5.0bar_14.0.
+Running simulation in CIPCUB_clean_helium_298.0K_5.0bar_14.0...
+Simulation completed in CIPCUB_clean_helium_298.0K_5.0bar_14.0.
+Running simulation in NOWGIR_clean_helium_298.0K_5.0bar_14.0...
+Simulation completed in NOWGIR_clean_helium_298.0K_5.0bar_14.0.
+Running simulation in UYAMOY_clean_helium_298.0K_5.0bar_14.0...
+Simulation completed in UYAMOY_clean_helium_298.0K_5.0bar_14.0.
+Running simulation in IWOTAQ_clean_helium_298.0K_5.0bar_14.0...
+Simulation completed in IWOTAQ_clean_helium_298.0K_5.0bar_14.0.
+Running simulation in HOBGAH_clean_helium_298.0K_5.0bar_14.0...
+Simulation completed in HOBGAH_clean_helium_298.0K_5.0bar_14.0.
+Running simulation in NUTQAV_clean_helium_298.0K_5.0bar_14.0...
+Simulation completed in NUTQAV_clean_helium_298.0K_5.0bar_14.0.
+Running simulation in LOVLEP_clean_helium_298.0K_5.0bar_14.0...
+Simulation completed in LOVLEP_clean_helium_298.0K_5.0bar_14.0.

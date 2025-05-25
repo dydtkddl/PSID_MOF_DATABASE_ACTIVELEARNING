@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "./MOFSimplify/02make_multiple_simulations.py", line 19, in <module>
+    with open(cif_list_path, "r") as file:
+FileNotFoundError: [Errno 2] No such file or directory: '04cif_list.txt'
+Traceback (most recent call last):
+  File "./netcharge/02make_multiple_simulations.py", line 19, in <module>
+    with open(cif_list_path, "r") as file:
+FileNotFoundError: [Errno 2] No such file or directory: '04cif_list.txt'
